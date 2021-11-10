@@ -1,26 +1,39 @@
 {
 	"major_release": "Developer Tools 4",
-	"release": "Developer Tools 4.0",
+	"release": "Developer Tools 4.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
-			"tag": "CoreOSMakefiles-63"
+			"tag": "CoreOSMakefiles-64",
+			"updated": true
 		},
 		{
-			"project": "Csu",
-			"tag": "Csu-79"
+			"project": "Git",
+			"tag": "Git-17",
+			"updated": true
 		},
 		{
 			"project": "autoconf",
-			"tag": "autoconf-15"
+			"tag": "autoconf-17.1",
+			"updated": true
+		},
+		{
+			"project": "automake",
+			"tag": "automake-10",
+			"updated": true
 		},
 		{
 			"project": "bison",
 			"tag": "bison-13"
 		},
 		{
+			"project": "bison1",
+			"tag": "bison1-1"
+		},
+		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-72"
+			"tag": "bootstrap_cmds-79",
+			"updated": true
 		},
 		{
 			"project": "bsdmake",
@@ -28,39 +41,27 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-800"
+			"tag": "cctools-806",
+			"updated": true
 		},
 		{
 			"project": "clang",
-			"tag": "clang-137"
+			"tag": "clang-163.7.1",
+			"updated": true
 		},
 		{
 			"project": "cvs",
 			"tag": "cvs-42"
 		},
 		{
-			"project": "cvs_wrapped",
-			"tag": "cvs_wrapped-15"
-		},
-		{
-			"project": "cxxfilt",
-			"tag": "cxxfilt-9"
-		},
-		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-53.1"
+			"tag": "developer_cmds-55",
+			"updated": true
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-1705"
-		},
-		{
-			"project": "files",
-			"tag": "files-556.3"
-		},
-		{
-			"project": "flex",
-			"tag": "flex-24.1"
+			"tag": "distcc-2503",
+			"updated": true
 		},
 		{
 			"project": "gcc",
@@ -68,15 +69,18 @@
 		},
 		{
 			"project": "gcc_select",
-			"tag": "gcc_select-70"
+			"tag": "gcc_select-102.2",
+			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1518"
+			"tag": "gdb-1705",
+			"updated": true
 		},
 		{
 			"project": "glibtool",
-			"tag": "glibtool-14"
+			"tag": "glibtool-17",
+			"updated": true
 		},
 		{
 			"project": "gm4",
@@ -87,40 +91,28 @@
 			"tag": "gnumake-126.2"
 		},
 		{
-			"project": "gnutar",
-			"tag": "gnutar-450"
-		},
-		{
 			"project": "gperf",
 			"tag": "gperf-6"
 		},
 		{
-			"project": "headerdoc",
-			"tag": "headerdoc-8.7.15"
-		},
-		{
 			"project": "ld64",
-			"tag": "ld64-123.2"
+			"tag": "ld64-123.2.1",
+			"updated": true
 		},
 		{
-			"project": "libclosure",
-			"tag": "libclosure-38"
+			"project": "libcpp",
+			"tag": "libcpp-19",
+			"updated": true
 		},
 		{
-			"project": "libstdcxx",
-			"tag": "libstdcxx-39"
-		},
-		{
-			"project": "llvmCore",
-			"tag": "llvmCore-2326.12"
+			"project": "lldb",
+			"tag": "lldb-69",
+			"updated": true
 		},
 		{
 			"project": "llvmgcc42",
-			"tag": "llvmgcc42-2335.9"
-		},
-		{
-			"project": "nasm",
-			"tag": "nasm-13"
+			"tag": "llvmgcc42-2335.15",
+			"updated": true
 		},
 		{
 			"project": "pb_makefiles",
@@ -128,11 +120,13 @@
 		},
 		{
 			"project": "rcs",
-			"tag": "rcs-14"
+			"tag": "rcs-15",
+			"updated": true
 		},
 		{
-			"project": "wxWidgets",
-			"tag": "wxWidgets-13"
+			"project": "subversion",
+			"tag": "subversion-45",
+			"updated": true
 		}
 	]
 }
