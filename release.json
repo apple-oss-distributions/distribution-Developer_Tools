@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 4",
-	"release": "Developer Tools 4.5",
+	"release": "Developer Tools 4.6",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-33",
+			"tag": "Git-37",
 			"updated": true
 		},
 		{
@@ -17,17 +17,16 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-85",
-			"updated": true
+			"tag": "bootstrap_cmds-85"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-836",
+			"tag": "cctools-839",
 			"updated": true
 		},
 		{
 			"project": "clang",
-			"tag": "clang-421.11.65",
+			"tag": "clang-425.0.24",
 			"updated": true
 		},
 		{
@@ -44,7 +43,7 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1822",
+			"tag": "gdb-1824",
 			"updated": true
 		},
 		{
@@ -61,17 +60,16 @@
 		},
 		{
 			"project": "headerdoc",
-			"tag": "headerdoc-8.9.14",
-			"updated": true
+			"tag": "headerdoc-8.9.14"
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-134.9",
+			"tag": "ld64-136",
 			"updated": true
 		},
 		{
 			"project": "lldb",
-			"tag": "lldb-167.2",
+			"tag": "lldb-179.1",
 			"updated": true
 		},
 		{
