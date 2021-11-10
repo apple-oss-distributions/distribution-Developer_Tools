@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 3",
-	"release": "Developer Tools 3.2.2",
+	"release": "Developer Tools 3.2.3",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -504,7 +504,7 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-773",
+			"tag": "cctools-782",
 			"updated": true
 		},
 		{
@@ -573,7 +573,7 @@
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-1648",
+			"tag": "distcc-1686",
 			"updated": true
 		},
 		{
@@ -630,7 +630,7 @@
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5659",
+			"tag": "gcc-5664",
 			"updated": true
 		},
 		{
@@ -639,7 +639,7 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1461.2",
+			"tag": "gdb-1469",
 			"updated": true
 		},
 		{
@@ -732,7 +732,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-97.2",
+			"tag": "ld64-97.14",
 			"updated": true
 		},
 		{
