@@ -43,3 +43,6 @@
 [submodule "subversion"]
 	path = subversion
 	url = https://github.com/apple-oss-distributions/subversion
+[submodule "tapi"]
+	path = tapi
+	url = https://github.com/apple-oss-distributions/tapi
