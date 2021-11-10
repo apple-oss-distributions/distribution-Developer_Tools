@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 6",
-	"release": "Developer Tools 6.2",
+	"release": "Developer Tools 6.3",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-50.3",
+			"tag": "Git-55",
 			"updated": true
 		},
 		{
@@ -17,15 +17,17 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-91"
+			"tag": "bootstrap_cmds-93",
+			"updated": true
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-862"
+			"tag": "cctools-870",
+			"updated": true
 		},
 		{
 			"project": "clang",
-			"tag": "clang-600.0.57",
+			"tag": "clang-602.0.53",
 			"updated": true
 		},
 		{
@@ -58,7 +60,8 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-241.9"
+			"tag": "ld64-242",
+			"updated": true
 		},
 		{
 			"project": "pb_makefiles",
@@ -66,8 +69,7 @@
 		},
 		{
 			"project": "subversion",
-			"tag": "subversion-66",
-			"updated": true
+			"tag": "subversion-66"
 		}
 	]
 }
