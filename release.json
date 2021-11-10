@@ -1,75 +1,68 @@
 {
 	"major_release": "Developer Tools 1",
-	"release": "Developer Tools Dec2002",
+	"release": "Developer Tools Jun2003",
 	"projects": [
 		{
 			"project": "autoconf",
-			"tag": "autoconf-10",
-			"updated": true
+			"tag": "autoconf-10"
 		},
 		{
 			"project": "binutils",
-			"tag": "binutils-40",
+			"tag": "binutils-45.1",
 			"updated": true
 		},
 		{
 			"project": "bison",
-			"tag": "bison-6",
-			"updated": true
+			"tag": "bison-6"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-446.1",
+			"tag": "cctools-478",
 			"updated": true
 		},
 		{
 			"project": "cvs",
-			"tag": "cvs-29",
-			"updated": true
+			"tag": "cvs-29"
 		},
 		{
 			"project": "gas",
-			"tag": "gas-446.1",
+			"tag": "gas-478",
 			"updated": true
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-937.2"
+			"tag": "gcc-1435",
+			"updated": true
 		},
 		{
-			"project": "gcc3",
-			"tag": "gcc3-1175",
+			"project": "gcc_legacy",
+			"tag": "gcc_legacy-938",
 			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-250",
+			"tag": "gdb-282",
 			"updated": true
 		},
 		{
 			"project": "glibtool",
-			"tag": "glibtool-5",
-			"updated": true
+			"tag": "glibtool-5"
 		},
 		{
 			"project": "gm4",
-			"tag": "gm4-8",
-			"updated": true
+			"tag": "gm4-8"
 		},
 		{
 			"project": "gnumake",
-			"tag": "gnumake-106",
-			"updated": true
+			"tag": "gnumake-106"
 		},
 		{
 			"project": "gnuserv",
-			"tag": "gnuserv-1",
-			"updated": true
+			"tag": "gnuserv-1"
 		},
 		{
 			"project": "gnutar",
-			"tag": "gnutar-413",
-			"updated": true
+			"tag": "gnutar-413"
 		},
 		{
 			"project": "rcs",
@@ -77,18 +70,15 @@
 		},
 		{
 			"project": "rsync",
-			"tag": "rsync-8",
-			"updated": true
+			"tag": "rsync-8"
 		},
 		{
 			"project": "ruby",
-			"tag": "ruby-4",
-			"updated": true
+			"tag": "ruby-4"
 		},
 		{
 			"project": "texinfo",
-			"tag": "texinfo-4",
-			"updated": true
+			"tag": "texinfo-4"
 		}
 	]
 }

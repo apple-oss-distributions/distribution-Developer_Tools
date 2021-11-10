@@ -52,3 +52,6 @@
 [submodule "texinfo"]
 	path = texinfo
 	url = https://github.com/apple-oss-distributions/texinfo
+[submodule "gcc_legacy"]
+	path = gcc_legacy
+	url = https://github.com/apple-oss-distributions/gcc_legacy
