@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 3",
-	"release": "Developer Tools 3.2.1",
+	"release": "Developer Tools 3.2.2",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -303,10 +303,6 @@
 			"tag": "OpenSSL097-16"
 		},
 		{
-			"project": "OpenSSL098",
-			"tag": "OpenSSL098-27"
-		},
-		{
 			"project": "PowerManagement",
 			"tag": "PowerManagement-209.1"
 		},
@@ -508,7 +504,8 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-750"
+			"tag": "cctools-773",
+			"updated": true
 		},
 		{
 			"project": "cddafs",
@@ -552,8 +549,7 @@
 		},
 		{
 			"project": "cvs_wrapped",
-			"tag": "cvs_wrapped-15",
-			"updated": true
+			"tag": "cvs_wrapped-15"
 		},
 		{
 			"project": "cxxfilt",
@@ -577,7 +573,8 @@
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-1607"
+			"tag": "distcc-1648",
+			"updated": true
 		},
 		{
 			"project": "doc_cmds",
@@ -598,10 +595,6 @@
 		{
 			"project": "efax",
 			"tag": "efax-35"
-		},
-		{
-			"project": "emacs",
-			"tag": "emacs-78.2"
 		},
 		{
 			"project": "enscript",
@@ -637,7 +630,7 @@
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5646.1",
+			"tag": "gcc-5659",
 			"updated": true
 		},
 		{
@@ -646,7 +639,7 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1346",
+			"tag": "gdb-1461.2",
 			"updated": true
 		},
 		{
@@ -739,7 +732,8 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-95.2.12"
+			"tag": "ld64-97.2",
+			"updated": true
 		},
 		{
 			"project": "less",
