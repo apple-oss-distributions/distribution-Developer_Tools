@@ -1,26 +1,7 @@
 {
-	"major_release": "Developer Tools 2",
-	"release": "Developer Tools 2.1",
+	"major_release": "Developer Tools 3",
+	"release": "Developer Tools 3.0",
 	"projects": [
-		{
-			"project": "cctools",
-			"tag": "cctools-590"
-		},
-		{
-			"project": "distcc",
-			"tag": "distcc-31.0.81"
-		},
-		{
-			"project": "gcc",
-			"tag": "gcc-5026"
-		},
-		{
-			"project": "gcc_select",
-			"tag": "gcc_select-48"
-		},
-		{
-			"project": "gdb",
-			"tag": "gdb-413"
-		}
+
 	]
 }
