@@ -1,84 +1,16 @@
 {
 	"major_release": "Developer Tools 1",
-	"release": "Developer Tools Jun2003",
+	"release": "Developer Tools 1.2",
 	"projects": [
 		{
-			"project": "autoconf",
-			"tag": "autoconf-10"
-		},
-		{
-			"project": "binutils",
-			"tag": "binutils-45.1",
-			"updated": true
-		},
-		{
-			"project": "bison",
-			"tag": "bison-6"
-		},
-		{
 			"project": "cctools",
-			"tag": "cctools-478",
-			"updated": true
-		},
-		{
-			"project": "cvs",
-			"tag": "cvs-29"
-		},
-		{
-			"project": "gas",
-			"tag": "gas-478",
+			"tag": "cctools-499",
 			"updated": true
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-1435",
+			"tag": "gcc-1640",
 			"updated": true
-		},
-		{
-			"project": "gcc_legacy",
-			"tag": "gcc_legacy-938",
-			"updated": true
-		},
-		{
-			"project": "gdb",
-			"tag": "gdb-282",
-			"updated": true
-		},
-		{
-			"project": "glibtool",
-			"tag": "glibtool-5"
-		},
-		{
-			"project": "gm4",
-			"tag": "gm4-8"
-		},
-		{
-			"project": "gnumake",
-			"tag": "gnumake-106"
-		},
-		{
-			"project": "gnuserv",
-			"tag": "gnuserv-1"
-		},
-		{
-			"project": "gnutar",
-			"tag": "gnutar-413"
-		},
-		{
-			"project": "rcs",
-			"tag": "rcs-10"
-		},
-		{
-			"project": "rsync",
-			"tag": "rsync-8"
-		},
-		{
-			"project": "ruby",
-			"tag": "ruby-4"
-		},
-		{
-			"project": "texinfo",
-			"tag": "texinfo-4"
 		}
 	]
 }

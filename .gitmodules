@@ -1,57 +1,12 @@
-[submodule "autoconf"]
-	path = autoconf
-	url = https://github.com/apple-oss-distributions/autoconf
-[submodule "bison"]
-	path = bison
-	url = https://github.com/apple-oss-distributions/bison
 [submodule "cctools"]
 	path = cctools
 	url = https://github.com/apple-oss-distributions/cctools
-[submodule "cvs"]
-	path = cvs
-	url = https://github.com/apple-oss-distributions/cvs
 [submodule "gcc"]
 	path = gcc
 	url = https://github.com/apple-oss-distributions/gcc
-[submodule "gdb"]
-	path = gdb
-	url = https://github.com/apple-oss-distributions/gdb
-[submodule "glibtool"]
-	path = glibtool
-	url = https://github.com/apple-oss-distributions/glibtool
-[submodule "gm4"]
-	path = gm4
-	url = https://github.com/apple-oss-distributions/gm4
-[submodule "gnumake"]
-	path = gnumake
-	url = https://github.com/apple-oss-distributions/gnumake
-[submodule "gnutar"]
-	path = gnutar
-	url = https://github.com/apple-oss-distributions/gnutar
-[submodule "rcs"]
-	path = rcs
-	url = https://github.com/apple-oss-distributions/rcs
-[submodule "binutils"]
-	path = binutils
-	url = https://github.com/apple-oss-distributions/binutils
-[submodule "gas"]
-	path = gas
-	url = https://github.com/apple-oss-distributions/gas
 [submodule "gcc3"]
 	path = gcc3
 	url = https://github.com/apple-oss-distributions/gcc3
-[submodule "gnuserv"]
-	path = gnuserv
-	url = https://github.com/apple-oss-distributions/gnuserv
-[submodule "rsync"]
-	path = rsync
-	url = https://github.com/apple-oss-distributions/rsync
-[submodule "ruby"]
-	path = ruby
-	url = https://github.com/apple-oss-distributions/ruby
-[submodule "texinfo"]
-	path = texinfo
-	url = https://github.com/apple-oss-distributions/texinfo
 [submodule "gcc_legacy"]
 	path = gcc_legacy
 	url = https://github.com/apple-oss-distributions/gcc_legacy
