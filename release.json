@@ -1,6 +1,6 @@
 {
-	"major_release": "Developer Tools 11",
-	"release": "Developer Tools 11.0",
+	"major_release": "Developer Tools 12",
+	"release": "Developer Tools 12.0",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-122"
+			"tag": "Git-128"
 		},
 		{
 			"project": "bison",
@@ -16,19 +16,15 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-116"
+			"tag": "bootstrap_cmds-117"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-949.0.1"
+			"tag": "cctools-973.0.1"
 		},
 		{
 			"project": "developer_cmds",
 			"tag": "developer_cmds-66"
-		},
-		{
-			"project": "gcc_select",
-			"tag": "gcc_select-136"
 		},
 		{
 			"project": "gm4",
@@ -48,7 +44,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-512.4"
+			"tag": "ld64-609"
 		},
 		{
 			"project": "libgit2",
@@ -56,11 +52,7 @@
 		},
 		{
 			"project": "pb_makefiles",
-			"tag": "pb_makefiles-1005"
-		},
-		{
-			"project": "subversion",
-			"tag": "subversion-86"
+			"tag": "pb_makefiles-1006"
 		}
 	]
 }
