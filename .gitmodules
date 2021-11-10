@@ -1,18 +1,12 @@
 [submodule "CoreOSMakefiles"]
 	path = CoreOSMakefiles
 	url = https://github.com/apple-oss-distributions/CoreOSMakefiles
-[submodule "autoconf"]
-	path = autoconf
-	url = https://github.com/apple-oss-distributions/autoconf
 [submodule "bison"]
 	path = bison
 	url = https://github.com/apple-oss-distributions/bison
 [submodule "bootstrap_cmds"]
 	path = bootstrap_cmds
 	url = https://github.com/apple-oss-distributions/bootstrap_cmds
-[submodule "bsdmake"]
-	path = bsdmake
-	url = https://github.com/apple-oss-distributions/bsdmake
 [submodule "cctools"]
 	path = cctools
 	url = https://github.com/apple-oss-distributions/cctools
@@ -28,18 +22,12 @@
 [submodule "developer_cmds"]
 	path = developer_cmds
 	url = https://github.com/apple-oss-distributions/developer_cmds
-[submodule "distcc"]
-	path = distcc
-	url = https://github.com/apple-oss-distributions/distcc
 [submodule "gcc_select"]
 	path = gcc_select
 	url = https://github.com/apple-oss-distributions/gcc_select
 [submodule "gdb"]
 	path = gdb
 	url = https://github.com/apple-oss-distributions/gdb
-[submodule "glibtool"]
-	path = glibtool
-	url = https://github.com/apple-oss-distributions/glibtool
 [submodule "gm4"]
 	path = gm4
 	url = https://github.com/apple-oss-distributions/gm4
@@ -64,18 +52,15 @@
 [submodule "Git"]
 	path = Git
 	url = https://github.com/apple-oss-distributions/Git
-[submodule "automake"]
-	path = automake
-	url = https://github.com/apple-oss-distributions/automake
 [submodule "bison1"]
 	path = bison1
 	url = https://github.com/apple-oss-distributions/bison1
-[submodule "libcpp"]
-	path = libcpp
-	url = https://github.com/apple-oss-distributions/libcpp
 [submodule "lldb"]
 	path = lldb
 	url = https://github.com/apple-oss-distributions/lldb
 [submodule "subversion"]
 	path = subversion
 	url = https://github.com/apple-oss-distributions/subversion
+[submodule "headerdoc"]
+	path = headerdoc
+	url = https://github.com/apple-oss-distributions/headerdoc

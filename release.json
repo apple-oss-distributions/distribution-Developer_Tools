@@ -1,118 +1,105 @@
 {
 	"major_release": "Developer Tools 4",
-	"release": "Developer Tools 4.2",
+	"release": "Developer Tools 4.3",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
-			"tag": "CoreOSMakefiles-64.1",
+			"tag": "CoreOSMakefiles-73",
 			"updated": true
 		},
 		{
 			"project": "Git",
-			"tag": "Git-19",
+			"tag": "Git-26",
 			"updated": true
-		},
-		{
-			"project": "autoconf",
-			"tag": "autoconf-17.1"
-		},
-		{
-			"project": "automake",
-			"tag": "automake-10"
 		},
 		{
 			"project": "bison",
-			"tag": "bison-13"
-		},
-		{
-			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-80",
+			"tag": "bison-14",
 			"updated": true
 		},
 		{
-			"project": "bsdmake",
-			"tag": "bsdmake-24"
+			"project": "bootstrap_cmds",
+			"tag": "bootstrap_cmds-84",
+			"updated": true
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-809",
+			"tag": "cctools-822",
 			"updated": true
 		},
 		{
 			"project": "clang",
-			"tag": "clang-211.10.1",
+			"tag": "clang-318.0.45",
 			"updated": true
 		},
 		{
 			"project": "cvs",
-			"tag": "cvs-42"
+			"tag": "cvs-44",
+			"updated": true
 		},
 		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-55"
-		},
-		{
-			"project": "distcc",
-			"tag": "distcc-2805",
+			"tag": "developer_cmds-58",
 			"updated": true
 		},
 		{
 			"project": "gcc_select",
-			"tag": "gcc_select-102.4",
+			"tag": "gcc_select-114",
 			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1708",
+			"tag": "gdb-1752",
 			"updated": true
-		},
-		{
-			"project": "glibtool",
-			"tag": "glibtool-17"
 		},
 		{
 			"project": "gm4",
-			"tag": "gm4-13"
-		},
-		{
-			"project": "gnumake",
-			"tag": "gnumake-126.2"
-		},
-		{
-			"project": "gperf",
-			"tag": "gperf-6"
-		},
-		{
-			"project": "ld64",
-			"tag": "ld64-127.2",
+			"tag": "gm4-15",
 			"updated": true
 		},
 		{
-			"project": "libcpp",
-			"tag": "libcpp-31",
+			"project": "gnumake",
+			"tag": "gnumake-129",
+			"updated": true
+		},
+		{
+			"project": "gperf",
+			"tag": "gperf-9",
+			"updated": true
+		},
+		{
+			"project": "headerdoc",
+			"tag": "headerdoc-8.9.5",
+			"updated": true
+		},
+		{
+			"project": "ld64",
+			"tag": "ld64-128.2",
 			"updated": true
 		},
 		{
 			"project": "lldb",
-			"tag": "lldb-76",
+			"tag": "lldb-112",
 			"updated": true
 		},
 		{
 			"project": "llvmgcc42",
-			"tag": "llvmgcc42-2336.1",
+			"tag": "llvmgcc42-2336.9",
 			"updated": true
 		},
 		{
 			"project": "pb_makefiles",
-			"tag": "pb_makefiles-1001"
+			"tag": "pb_makefiles-1002",
+			"updated": true
 		},
 		{
 			"project": "rcs",
-			"tag": "rcs-15"
+			"tag": "rcs-16",
+			"updated": true
 		},
 		{
 			"project": "subversion",
-			"tag": "subversion-46",
+			"tag": "subversion-48",
 			"updated": true
 		}
 	]
