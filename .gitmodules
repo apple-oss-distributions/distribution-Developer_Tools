@@ -937,3 +937,9 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/apple-oss-distributions/zsh
+[submodule "OpenSSL098"]
+	path = OpenSSL098
+	url = https://github.com/apple-oss-distributions/OpenSSL098
+[submodule "xnu"]
+	path = xnu
+	url = https://github.com/apple-oss-distributions/xnu
