@@ -1,105 +1,100 @@
 {
 	"major_release": "Developer Tools 4",
-	"release": "Developer Tools 4.3",
+	"release": "Developer Tools 4.4",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
-			"tag": "CoreOSMakefiles-73",
+			"tag": "CoreOSMakefiles-75",
 			"updated": true
 		},
 		{
 			"project": "Git",
-			"tag": "Git-26",
+			"tag": "Git-31.1",
 			"updated": true
 		},
 		{
 			"project": "bison",
-			"tag": "bison-14",
-			"updated": true
+			"tag": "bison-14"
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-84",
-			"updated": true
+			"tag": "bootstrap_cmds-84"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-822",
+			"tag": "cctools-829",
 			"updated": true
 		},
 		{
 			"project": "clang",
-			"tag": "clang-318.0.45",
+			"tag": "clang-421.0.57",
 			"updated": true
 		},
 		{
 			"project": "cvs",
-			"tag": "cvs-44",
+			"tag": "cvs-45",
 			"updated": true
 		},
 		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-58",
+			"tag": "developer_cmds-60",
 			"updated": true
 		},
 		{
 			"project": "gcc_select",
-			"tag": "gcc_select-114",
+			"tag": "gcc_select-115",
 			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1752",
+			"tag": "gdb-1820",
 			"updated": true
 		},
 		{
 			"project": "gm4",
-			"tag": "gm4-15",
-			"updated": true
+			"tag": "gm4-15"
 		},
 		{
 			"project": "gnumake",
-			"tag": "gnumake-129",
+			"tag": "gnumake-130",
 			"updated": true
 		},
 		{
 			"project": "gperf",
-			"tag": "gperf-9",
-			"updated": true
+			"tag": "gperf-9"
 		},
 		{
 			"project": "headerdoc",
-			"tag": "headerdoc-8.9.5",
+			"tag": "headerdoc-8.9.13",
 			"updated": true
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-128.2",
+			"tag": "ld64-133.3",
 			"updated": true
 		},
 		{
 			"project": "lldb",
-			"tag": "lldb-112",
+			"tag": "lldb-159",
 			"updated": true
 		},
 		{
 			"project": "llvmgcc42",
-			"tag": "llvmgcc42-2336.9",
+			"tag": "llvmgcc42-2336.11",
 			"updated": true
 		},
 		{
 			"project": "pb_makefiles",
-			"tag": "pb_makefiles-1002",
+			"tag": "pb_makefiles-1005",
 			"updated": true
 		},
 		{
 			"project": "rcs",
-			"tag": "rcs-16",
-			"updated": true
+			"tag": "rcs-16"
 		},
 		{
 			"project": "subversion",
-			"tag": "subversion-48",
+			"tag": "subversion-52",
 			"updated": true
 		}
 	]
