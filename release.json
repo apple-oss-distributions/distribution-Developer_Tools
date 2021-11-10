@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 10",
-	"release": "Developer Tools 10.1",
+	"release": "Developer Tools 10.2",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-113",
+			"tag": "Git-117",
 			"updated": true
 		},
 		{
@@ -17,11 +17,13 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-96.20.2.200.4"
+			"tag": "bootstrap_cmds-96.20.2.250.2",
+			"updated": true
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-921"
+			"tag": "cctools-927.0.2",
+			"updated": true
 		},
 		{
 			"project": "developer_cmds",
@@ -49,7 +51,8 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-409.12"
+			"tag": "ld64-450.3",
+			"updated": true
 		},
 		{
 			"project": "pb_makefiles",
@@ -57,11 +60,7 @@
 		},
 		{
 			"project": "subversion",
-			"tag": "subversion-81"
-		},
-		{
-			"project": "tapi",
-			"tag": "tapi-1000.10.8",
+			"tag": "subversion-83",
 			"updated": true
 		}
 	]
