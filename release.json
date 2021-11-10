@@ -1,15 +1,14 @@
 {
 	"major_release": "Developer Tools 4",
-	"release": "Developer Tools 4.4",
+	"release": "Developer Tools 4.5",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
-			"tag": "CoreOSMakefiles-75",
-			"updated": true
+			"tag": "CoreOSMakefiles-75"
 		},
 		{
 			"project": "Git",
-			"tag": "Git-31.1",
+			"tag": "Git-33",
 			"updated": true
 		},
 		{
@@ -18,36 +17,34 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-84"
+			"tag": "bootstrap_cmds-85",
+			"updated": true
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-829",
+			"tag": "cctools-836",
 			"updated": true
 		},
 		{
 			"project": "clang",
-			"tag": "clang-421.0.57",
+			"tag": "clang-421.11.65",
 			"updated": true
 		},
 		{
 			"project": "cvs",
-			"tag": "cvs-45",
-			"updated": true
+			"tag": "cvs-45"
 		},
 		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-60",
-			"updated": true
+			"tag": "developer_cmds-60"
 		},
 		{
 			"project": "gcc_select",
-			"tag": "gcc_select-115",
-			"updated": true
+			"tag": "gcc_select-115"
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1820",
+			"tag": "gdb-1822",
 			"updated": true
 		},
 		{
@@ -56,8 +53,7 @@
 		},
 		{
 			"project": "gnumake",
-			"tag": "gnumake-130",
-			"updated": true
+			"tag": "gnumake-130"
 		},
 		{
 			"project": "gperf",
@@ -65,28 +61,26 @@
 		},
 		{
 			"project": "headerdoc",
-			"tag": "headerdoc-8.9.13",
+			"tag": "headerdoc-8.9.14",
 			"updated": true
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-133.3",
+			"tag": "ld64-134.9",
 			"updated": true
 		},
 		{
 			"project": "lldb",
-			"tag": "lldb-159",
+			"tag": "lldb-167.2",
 			"updated": true
 		},
 		{
 			"project": "llvmgcc42",
-			"tag": "llvmgcc42-2336.11",
-			"updated": true
+			"tag": "llvmgcc42-2336.11"
 		},
 		{
 			"project": "pb_makefiles",
-			"tag": "pb_makefiles-1005",
-			"updated": true
+			"tag": "pb_makefiles-1005"
 		},
 		{
 			"project": "rcs",
@@ -94,8 +88,7 @@
 		},
 		{
 			"project": "subversion",
-			"tag": "subversion-52",
-			"updated": true
+			"tag": "subversion-52"
 		}
 	]
 }
