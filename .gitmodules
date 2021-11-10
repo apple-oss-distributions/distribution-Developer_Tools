@@ -1072,3 +1072,6 @@
 [submodule "ld64"]
 	path = ld64
 	url = https://github.com/apple-oss-distributions/ld64
+[submodule "X11server"]
+	path = X11server
+	url = https://github.com/apple-oss-distributions/X11server

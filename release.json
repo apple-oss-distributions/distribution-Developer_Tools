@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 3",
-	"release": "Developer Tools 3.1.2",
+	"release": "Developer Tools 3.1.3",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -204,7 +204,8 @@
 		},
 		{
 			"project": "CoreOSMakefiles",
-			"tag": "CoreOSMakefiles-40"
+			"tag": "CoreOSMakefiles-61",
+			"updated": true
 		},
 		{
 			"project": "CrackLib",
@@ -515,6 +516,10 @@
 			"tag": "X11misc-6"
 		},
 		{
+			"project": "X11server",
+			"tag": "X11server-48.1"
+		},
+		{
 			"project": "adv_cmds",
 			"tag": "adv_cmds-118"
 		},
@@ -552,8 +557,7 @@
 		},
 		{
 			"project": "apache_mod_php",
-			"tag": "apache_mod_php-44.1",
-			"updated": true
+			"tag": "apache_mod_php-44.1"
 		},
 		{
 			"project": "apache_mod_php4",
@@ -625,11 +629,13 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-60"
+			"tag": "bootstrap_cmds-68",
+			"updated": true
 		},
 		{
 			"project": "bsdmake",
-			"tag": "bsdmake-23"
+			"tag": "bsdmake-24",
+			"updated": true
 		},
 		{
 			"project": "bsm",
@@ -709,7 +715,8 @@
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-1088"
+			"tag": "distcc-1160",
+			"updated": true
 		},
 		{
 			"project": "doc_cmds",
@@ -773,12 +780,12 @@
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5490",
+			"tag": "gcc-5493",
 			"updated": true
 		},
 		{
 			"project": "gcc_42",
-			"tag": "gcc_42-5566",
+			"tag": "gcc_42-5574",
 			"updated": true
 		},
 		{
@@ -795,7 +802,8 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-962"
+			"tag": "gdb-966",
+			"updated": true
 		},
 		{
 			"project": "gdbforcw",
@@ -879,7 +887,8 @@
 		},
 		{
 			"project": "jam",
-			"tag": "jam-1056"
+			"tag": "jam-1160",
+			"updated": true
 		},
 		{
 			"project": "kext_tools",
