@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 8",
-	"release": "Developer Tools 8.1",
+	"release": "Developer Tools 8.2.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-75",
+			"tag": "Git-78",
 			"updated": true
 		},
 		{
@@ -17,8 +17,7 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-96.20.2",
-			"updated": true
+			"tag": "bootstrap_cmds-96.20.2"
 		},
 		{
 			"project": "cctools",
@@ -26,8 +25,7 @@
 		},
 		{
 			"project": "clang",
-			"tag": "clang-800.0.42.1",
-			"updated": true
+			"tag": "clang-800.0.42.1"
 		},
 		{
 			"project": "developer_cmds",
@@ -55,7 +53,8 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-274.1"
+			"tag": "ld64-274.2",
+			"updated": true
 		},
 		{
 			"project": "pb_makefiles",
