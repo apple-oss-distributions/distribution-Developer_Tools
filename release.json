@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 2",
-	"release": "Developer Tools 2.4.1",
+	"release": "Developer Tools 2.5",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -12,7 +12,8 @@
 		},
 		{
 			"project": "bison",
-			"tag": "bison-6"
+			"tag": "bison-6.1.1",
+			"updated": true
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -24,7 +25,7 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-622.5",
+			"tag": "cctools-622.9",
 			"updated": true
 		},
 		{
@@ -33,7 +34,8 @@
 		},
 		{
 			"project": "cvs_wrapped",
-			"tag": "cvs_wrapped-5"
+			"tag": "cvs_wrapped-5.1",
+			"updated": true
 		},
 		{
 			"project": "cxxfilt",
@@ -45,7 +47,7 @@
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-43",
+			"tag": "distcc-786",
 			"updated": true
 		},
 		{
@@ -62,7 +64,7 @@
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5367",
+			"tag": "gcc-5370",
 			"updated": true
 		},
 		{
@@ -71,7 +73,8 @@
 		},
 		{
 			"project": "gcc_select",
-			"tag": "gcc_select-58"
+			"tag": "gcc_select-58.2",
+			"updated": true
 		},
 		{
 			"project": "gccfast",
@@ -79,7 +82,7 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-573",
+			"tag": "gdb-696",
 			"updated": true
 		},
 		{
@@ -96,7 +99,8 @@
 		},
 		{
 			"project": "gnutar",
-			"tag": "gnutar-433.1"
+			"tag": "gnutar-433.3",
+			"updated": true
 		},
 		{
 			"project": "gperf",
@@ -112,8 +116,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-62.1",
-			"updated": true
+			"tag": "ld64-62.1"
 		},
 		{
 			"project": "pb_makefiles",
@@ -121,7 +124,8 @@
 		},
 		{
 			"project": "pbx_jamfiles",
-			"tag": "pbx_jamfiles-751.1"
+			"tag": "pbx_jamfiles-781",
+			"updated": true
 		},
 		{
 			"project": "project_makefiles",
