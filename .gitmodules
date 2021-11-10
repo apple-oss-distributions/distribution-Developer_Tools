@@ -1,21 +1,12 @@
 [submodule "CoreOSMakefiles"]
 	path = CoreOSMakefiles
 	url = https://github.com/apple-oss-distributions/CoreOSMakefiles
-[submodule "Csu"]
-	path = Csu
-	url = https://github.com/apple-oss-distributions/Csu
-[submodule "autoconf"]
-	path = autoconf
-	url = https://github.com/apple-oss-distributions/autoconf
 [submodule "bison"]
 	path = bison
 	url = https://github.com/apple-oss-distributions/bison
 [submodule "bootstrap_cmds"]
 	path = bootstrap_cmds
 	url = https://github.com/apple-oss-distributions/bootstrap_cmds
-[submodule "bsdmake"]
-	path = bsdmake
-	url = https://github.com/apple-oss-distributions/bsdmake
 [submodule "cctools"]
 	path = cctools
 	url = https://github.com/apple-oss-distributions/cctools
@@ -28,42 +19,21 @@
 [submodule "cvs_wrapped"]
 	path = cvs_wrapped
 	url = https://github.com/apple-oss-distributions/cvs_wrapped
-[submodule "cxxfilt"]
-	path = cxxfilt
-	url = https://github.com/apple-oss-distributions/cxxfilt
 [submodule "developer_cmds"]
 	path = developer_cmds
 	url = https://github.com/apple-oss-distributions/developer_cmds
-[submodule "distcc"]
-	path = distcc
-	url = https://github.com/apple-oss-distributions/distcc
-[submodule "files"]
-	path = files
-	url = https://github.com/apple-oss-distributions/files
-[submodule "flex"]
-	path = flex
-	url = https://github.com/apple-oss-distributions/flex
-[submodule "gcc"]
-	path = gcc
-	url = https://github.com/apple-oss-distributions/gcc
 [submodule "gcc_select"]
 	path = gcc_select
 	url = https://github.com/apple-oss-distributions/gcc_select
 [submodule "gdb"]
 	path = gdb
 	url = https://github.com/apple-oss-distributions/gdb
-[submodule "glibtool"]
-	path = glibtool
-	url = https://github.com/apple-oss-distributions/glibtool
 [submodule "gm4"]
 	path = gm4
 	url = https://github.com/apple-oss-distributions/gm4
 [submodule "gnumake"]
 	path = gnumake
 	url = https://github.com/apple-oss-distributions/gnumake
-[submodule "gnutar"]
-	path = gnutar
-	url = https://github.com/apple-oss-distributions/gnutar
 [submodule "gperf"]
 	path = gperf
 	url = https://github.com/apple-oss-distributions/gperf
@@ -73,27 +43,15 @@
 [submodule "ld64"]
 	path = ld64
 	url = https://github.com/apple-oss-distributions/ld64
-[submodule "libclosure"]
-	path = libclosure
-	url = https://github.com/apple-oss-distributions/libclosure
-[submodule "libstdcxx"]
-	path = libstdcxx
-	url = https://github.com/apple-oss-distributions/libstdcxx
-[submodule "llvmCore"]
-	path = llvmCore
-	url = https://github.com/apple-oss-distributions/llvmCore
-[submodule "llvmgcc42"]
-	path = llvmgcc42
-	url = https://github.com/apple-oss-distributions/llvmgcc42
-[submodule "nasm"]
-	path = nasm
-	url = https://github.com/apple-oss-distributions/nasm
 [submodule "pb_makefiles"]
 	path = pb_makefiles
 	url = https://github.com/apple-oss-distributions/pb_makefiles
-[submodule "rcs"]
-	path = rcs
-	url = https://github.com/apple-oss-distributions/rcs
-[submodule "wxWidgets"]
-	path = wxWidgets
-	url = https://github.com/apple-oss-distributions/wxWidgets
+[submodule "Git"]
+	path = Git
+	url = https://github.com/apple-oss-distributions/Git
+[submodule "lldb"]
+	path = lldb
+	url = https://github.com/apple-oss-distributions/lldb
+[submodule "subversion"]
+	path = subversion
+	url = https://github.com/apple-oss-distributions/subversion
