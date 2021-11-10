@@ -40,3 +40,15 @@
 [submodule "gcc3"]
 	path = gcc3
 	url = https://github.com/apple-oss-distributions/gcc3
+[submodule "gnuserv"]
+	path = gnuserv
+	url = https://github.com/apple-oss-distributions/gnuserv
+[submodule "rsync"]
+	path = rsync
+	url = https://github.com/apple-oss-distributions/rsync
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/apple-oss-distributions/ruby
+[submodule "texinfo"]
+	path = texinfo
+	url = https://github.com/apple-oss-distributions/texinfo
