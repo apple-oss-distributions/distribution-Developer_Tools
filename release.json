@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 7",
-	"release": "Developer Tools 7.1",
+	"release": "Developer Tools 7.2",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-60",
+			"tag": "Git-61",
 			"updated": true
 		},
 		{
@@ -21,12 +21,12 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-877.7",
+			"tag": "cctools-877.8",
 			"updated": true
 		},
 		{
 			"project": "clang",
-			"tag": "clang-700.1.76",
+			"tag": "clang-700.1.81",
 			"updated": true
 		},
 		{
@@ -55,7 +55,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-253.6",
+			"tag": "ld64-253.9",
 			"updated": true
 		},
 		{
