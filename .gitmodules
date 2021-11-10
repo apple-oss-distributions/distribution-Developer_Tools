@@ -13,3 +13,87 @@
 [submodule "gcc_select"]
 	path = gcc_select
 	url = https://github.com/apple-oss-distributions/gcc_select
+[submodule "CoreOSMakefiles"]
+	path = CoreOSMakefiles
+	url = https://github.com/apple-oss-distributions/CoreOSMakefiles
+[submodule "autoconf"]
+	path = autoconf
+	url = https://github.com/apple-oss-distributions/autoconf
+[submodule "bison"]
+	path = bison
+	url = https://github.com/apple-oss-distributions/bison
+[submodule "bootstrap_cmds"]
+	path = bootstrap_cmds
+	url = https://github.com/apple-oss-distributions/bootstrap_cmds
+[submodule "bsdmake"]
+	path = bsdmake
+	url = https://github.com/apple-oss-distributions/bsdmake
+[submodule "cvs"]
+	path = cvs
+	url = https://github.com/apple-oss-distributions/cvs
+[submodule "cvs_wrapped"]
+	path = cvs_wrapped
+	url = https://github.com/apple-oss-distributions/cvs_wrapped
+[submodule "cxxfilt"]
+	path = cxxfilt
+	url = https://github.com/apple-oss-distributions/cxxfilt
+[submodule "developer_cmds"]
+	path = developer_cmds
+	url = https://github.com/apple-oss-distributions/developer_cmds
+[submodule "extenTools"]
+	path = extenTools
+	url = https://github.com/apple-oss-distributions/extenTools
+[submodule "files"]
+	path = files
+	url = https://github.com/apple-oss-distributions/files
+[submodule "flex"]
+	path = flex
+	url = https://github.com/apple-oss-distributions/flex
+[submodule "gcc_os"]
+	path = gcc_os
+	url = https://github.com/apple-oss-distributions/gcc_os
+[submodule "gccfast"]
+	path = gccfast
+	url = https://github.com/apple-oss-distributions/gccfast
+[submodule "glibtool"]
+	path = glibtool
+	url = https://github.com/apple-oss-distributions/glibtool
+[submodule "gm4"]
+	path = gm4
+	url = https://github.com/apple-oss-distributions/gm4
+[submodule "gnumake"]
+	path = gnumake
+	url = https://github.com/apple-oss-distributions/gnumake
+[submodule "gnutar"]
+	path = gnutar
+	url = https://github.com/apple-oss-distributions/gnutar
+[submodule "gperf"]
+	path = gperf
+	url = https://github.com/apple-oss-distributions/gperf
+[submodule "headerdoc"]
+	path = headerdoc
+	url = https://github.com/apple-oss-distributions/headerdoc
+[submodule "jam"]
+	path = jam
+	url = https://github.com/apple-oss-distributions/jam
+[submodule "ld64"]
+	path = ld64
+	url = https://github.com/apple-oss-distributions/ld64
+[submodule "pb_makefiles"]
+	path = pb_makefiles
+	url = https://github.com/apple-oss-distributions/pb_makefiles
+[submodule "pbx_jamfiles"]
+	path = pbx_jamfiles
+	url = https://github.com/apple-oss-distributions/pbx_jamfiles
+[submodule "project_makefiles"]
+	path = project_makefiles
+	url = https://github.com/apple-oss-distributions/project_makefiles
+[submodule "rcs"]
+	path = rcs
+	url = https://github.com/apple-oss-distributions/rcs
+[submodule "wxWidgets"]
+	path = wxWidgets
+	url = https://github.com/apple-oss-distributions/wxWidgets
+[submodule "yacc"]
+	path = yacc
+	url = https://github.com/apple-oss-distributions/yacc

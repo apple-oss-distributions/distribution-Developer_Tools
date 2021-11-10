@@ -1,26 +1,171 @@
 {
 	"major_release": "Developer Tools 2",
-	"release": "Developer Tools 2.1",
+	"release": "Developer Tools 2.2",
 	"projects": [
 		{
+			"project": "CoreOSMakefiles",
+			"tag": "CoreOSMakefiles-31",
+			"updated": true
+		},
+		{
+			"project": "autoconf",
+			"tag": "autoconf-12",
+			"updated": true
+		},
+		{
+			"project": "bison",
+			"tag": "bison-6",
+			"updated": true
+		},
+		{
+			"project": "bootstrap_cmds",
+			"tag": "bootstrap_cmds-49",
+			"updated": true
+		},
+		{
+			"project": "bsdmake",
+			"tag": "bsdmake-17",
+			"updated": true
+		},
+		{
 			"project": "cctools",
-			"tag": "cctools-590"
+			"tag": "cctools-590.18",
+			"updated": true
+		},
+		{
+			"project": "cvs",
+			"tag": "cvs-33.0.1",
+			"updated": true
+		},
+		{
+			"project": "cvs_wrapped",
+			"tag": "cvs_wrapped-5",
+			"updated": true
+		},
+		{
+			"project": "cxxfilt",
+			"tag": "cxxfilt-3",
+			"updated": true
+		},
+		{
+			"project": "developer_cmds",
+			"tag": "developer_cmds-39",
+			"updated": true
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-31.0.81"
+			"tag": "distcc-39",
+			"updated": true
+		},
+		{
+			"project": "extenTools",
+			"tag": "extenTools-17.3",
+			"updated": true
+		},
+		{
+			"project": "files",
+			"tag": "files-470",
+			"updated": true
+		},
+		{
+			"project": "flex",
+			"tag": "flex-13",
+			"updated": true
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5026"
+			"tag": "gcc-5247",
+			"updated": true
+		},
+		{
+			"project": "gcc_os",
+			"tag": "gcc_os-1819",
+			"updated": true
 		},
 		{
 			"project": "gcc_select",
-			"tag": "gcc_select-48"
+			"tag": "gcc_select-55",
+			"updated": true
+		},
+		{
+			"project": "gccfast",
+			"tag": "gccfast-1622",
+			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-413"
+			"tag": "gdb-434",
+			"updated": true
+		},
+		{
+			"project": "glibtool",
+			"tag": "glibtool-9",
+			"updated": true
+		},
+		{
+			"project": "gm4",
+			"tag": "gm4-10.2",
+			"updated": true
+		},
+		{
+			"project": "gnumake",
+			"tag": "gnumake-110",
+			"updated": true
+		},
+		{
+			"project": "gnutar",
+			"tag": "gnutar-433",
+			"updated": true
+		},
+		{
+			"project": "gperf",
+			"tag": "gperf-4",
+			"updated": true
+		},
+		{
+			"project": "headerdoc",
+			"tag": "headerdoc-8.5.10",
+			"updated": true
+		},
+		{
+			"project": "jam",
+			"tag": "jam-605",
+			"updated": true
+		},
+		{
+			"project": "ld64",
+			"tag": "ld64-26.0.81",
+			"updated": true
+		},
+		{
+			"project": "pb_makefiles",
+			"tag": "pb_makefiles-126",
+			"updated": true
+		},
+		{
+			"project": "pbx_jamfiles",
+			"tag": "pbx_jamfiles-628",
+			"updated": true
+		},
+		{
+			"project": "project_makefiles",
+			"tag": "project_makefiles-126",
+			"updated": true
+		},
+		{
+			"project": "rcs",
+			"tag": "rcs-11",
+			"updated": true
+		},
+		{
+			"project": "wxWidgets",
+			"tag": "wxWidgets-4",
+			"updated": true
+		},
+		{
+			"project": "yacc",
+			"tag": "yacc-8",
+			"updated": true
 		}
 	]
 }
