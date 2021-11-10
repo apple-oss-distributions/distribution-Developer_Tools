@@ -1,14 +1,16 @@
 {
-	"major_release": "Developer Tools 8",
-	"release": "Developer Tools 8.0",
+	"major_release": "Developer Tools 9",
+	"release": "Developer Tools 9.0",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
-			"tag": "CoreOSMakefiles-77"
+			"tag": "CoreOSMakefiles-78",
+			"updated": true
 		},
 		{
 			"project": "Git",
-			"tag": "Git-73"
+			"tag": "Git-94",
+			"updated": true
 		},
 		{
 			"project": "bison",
@@ -16,19 +18,17 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-96"
+			"tag": "bootstrap_cmds-96.20.2"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-895"
-		},
-		{
-			"project": "clang",
-			"tag": "clang-800.0.38"
+			"tag": "cctools-900",
+			"updated": true
 		},
 		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-63"
+			"tag": "developer_cmds-66",
+			"updated": true
 		},
 		{
 			"project": "gcc_select",
@@ -36,7 +36,8 @@
 		},
 		{
 			"project": "gm4",
-			"tag": "gm4-15"
+			"tag": "gm4-16",
+			"updated": true
 		},
 		{
 			"project": "gnumake",
@@ -52,7 +53,8 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-274.1"
+			"tag": "ld64-302.3",
+			"updated": true
 		},
 		{
 			"project": "pb_makefiles",
@@ -60,11 +62,8 @@
 		},
 		{
 			"project": "subversion",
-			"tag": "subversion-71"
-		},
-		{
-			"project": "tapi",
-			"tag": "tapi-1.30"
+			"tag": "subversion-74",
+			"updated": true
 		}
 	]
 }
