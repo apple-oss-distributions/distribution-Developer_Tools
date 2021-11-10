@@ -1,7 +1,138 @@
 {
-	"major_release": "Developer Tools 3",
-	"release": "Developer Tools 3.0",
+	"major_release": "Developer Tools 4",
+	"release": "Developer Tools 4.0",
 	"projects": [
-
+		{
+			"project": "CoreOSMakefiles",
+			"tag": "CoreOSMakefiles-63"
+		},
+		{
+			"project": "Csu",
+			"tag": "Csu-79"
+		},
+		{
+			"project": "autoconf",
+			"tag": "autoconf-15"
+		},
+		{
+			"project": "bison",
+			"tag": "bison-13"
+		},
+		{
+			"project": "bootstrap_cmds",
+			"tag": "bootstrap_cmds-72"
+		},
+		{
+			"project": "bsdmake",
+			"tag": "bsdmake-24"
+		},
+		{
+			"project": "cctools",
+			"tag": "cctools-800"
+		},
+		{
+			"project": "clang",
+			"tag": "clang-137"
+		},
+		{
+			"project": "cvs",
+			"tag": "cvs-42"
+		},
+		{
+			"project": "cvs_wrapped",
+			"tag": "cvs_wrapped-15"
+		},
+		{
+			"project": "cxxfilt",
+			"tag": "cxxfilt-9"
+		},
+		{
+			"project": "developer_cmds",
+			"tag": "developer_cmds-53.1"
+		},
+		{
+			"project": "distcc",
+			"tag": "distcc-1705"
+		},
+		{
+			"project": "files",
+			"tag": "files-556.3"
+		},
+		{
+			"project": "flex",
+			"tag": "flex-24.1"
+		},
+		{
+			"project": "gcc",
+			"tag": "gcc-5666.3"
+		},
+		{
+			"project": "gcc_select",
+			"tag": "gcc_select-70"
+		},
+		{
+			"project": "gdb",
+			"tag": "gdb-1518"
+		},
+		{
+			"project": "glibtool",
+			"tag": "glibtool-14"
+		},
+		{
+			"project": "gm4",
+			"tag": "gm4-13"
+		},
+		{
+			"project": "gnumake",
+			"tag": "gnumake-126.2"
+		},
+		{
+			"project": "gnutar",
+			"tag": "gnutar-450"
+		},
+		{
+			"project": "gperf",
+			"tag": "gperf-6"
+		},
+		{
+			"project": "headerdoc",
+			"tag": "headerdoc-8.7.15"
+		},
+		{
+			"project": "ld64",
+			"tag": "ld64-123.2"
+		},
+		{
+			"project": "libclosure",
+			"tag": "libclosure-38"
+		},
+		{
+			"project": "libstdcxx",
+			"tag": "libstdcxx-39"
+		},
+		{
+			"project": "llvmCore",
+			"tag": "llvmCore-2326.12"
+		},
+		{
+			"project": "llvmgcc42",
+			"tag": "llvmgcc42-2335.9"
+		},
+		{
+			"project": "nasm",
+			"tag": "nasm-13"
+		},
+		{
+			"project": "pb_makefiles",
+			"tag": "pb_makefiles-1001"
+		},
+		{
+			"project": "rcs",
+			"tag": "rcs-14"
+		},
+		{
+			"project": "wxWidgets",
+			"tag": "wxWidgets-13"
+		}
 	]
 }
