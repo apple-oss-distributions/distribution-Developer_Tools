@@ -10,3 +10,141 @@
 [submodule "gcc_legacy"]
 	path = gcc_legacy
 	url = https://github.com/apple-oss-distributions/gcc_legacy
+[submodule "Csu"]
+	path = Csu
+	url = https://github.com/apple-oss-distributions/Csu
+[submodule "autoconf"]
+	path = autoconf
+	url = https://github.com/apple-oss-distributions/autoconf
+[submodule "automake"]
+	path = automake
+	url = https://github.com/apple-oss-distributions/automake
+[submodule "awk"]
+	path = awk
+	url = https://github.com/apple-oss-distributions/awk
+[submodule "bash"]
+	path = bash
+	url = https://github.com/apple-oss-distributions/bash
+[submodule "basic_cmds"]
+	path = basic_cmds
+	url = https://github.com/apple-oss-distributions/basic_cmds
+[submodule "bc"]
+	path = bc
+	url = https://github.com/apple-oss-distributions/bc
+[submodule "bind9"]
+	path = bind9
+	url = https://github.com/apple-oss-distributions/bind9
+[submodule "bison"]
+	path = bison
+	url = https://github.com/apple-oss-distributions/bison
+[submodule "bootstrap_cmds"]
+	path = bootstrap_cmds
+	url = https://github.com/apple-oss-distributions/bootstrap_cmds
+[submodule "bsdmake"]
+	path = bsdmake
+	url = https://github.com/apple-oss-distributions/bsdmake
+[submodule "cscope"]
+	path = cscope
+	url = https://github.com/apple-oss-distributions/cscope
+[submodule "cvs"]
+	path = cvs
+	url = https://github.com/apple-oss-distributions/cvs
+[submodule "developer_cmds"]
+	path = developer_cmds
+	url = https://github.com/apple-oss-distributions/developer_cmds
+[submodule "diffstat"]
+	path = diffstat
+	url = https://github.com/apple-oss-distributions/diffstat
+[submodule "distcc"]
+	path = distcc
+	url = https://github.com/apple-oss-distributions/distcc
+[submodule "emacs"]
+	path = emacs
+	url = https://github.com/apple-oss-distributions/emacs
+[submodule "enscript"]
+	path = enscript
+	url = https://github.com/apple-oss-distributions/enscript
+[submodule "expect"]
+	path = expect
+	url = https://github.com/apple-oss-distributions/expect
+[submodule "extenTools"]
+	path = extenTools
+	url = https://github.com/apple-oss-distributions/extenTools
+[submodule "file"]
+	path = file
+	url = https://github.com/apple-oss-distributions/file
+[submodule "file_cmds"]
+	path = file_cmds
+	url = https://github.com/apple-oss-distributions/file_cmds
+[submodule "flex"]
+	path = flex
+	url = https://github.com/apple-oss-distributions/flex
+[submodule "gas"]
+	path = gas
+	url = https://github.com/apple-oss-distributions/gas
+[submodule "gcc_jaguar"]
+	path = gcc_jaguar
+	url = https://github.com/apple-oss-distributions/gcc_jaguar
+[submodule "gcc_os"]
+	path = gcc_os
+	url = https://github.com/apple-oss-distributions/gcc_os
+[submodule "gcc_select"]
+	path = gcc_select
+	url = https://github.com/apple-oss-distributions/gcc_select
+[submodule "gccfast"]
+	path = gccfast
+	url = https://github.com/apple-oss-distributions/gccfast
+[submodule "gdb"]
+	path = gdb
+	url = https://github.com/apple-oss-distributions/gdb
+[submodule "glibtool"]
+	path = glibtool
+	url = https://github.com/apple-oss-distributions/glibtool
+[submodule "gm4"]
+	path = gm4
+	url = https://github.com/apple-oss-distributions/gm4
+[submodule "gnudiff"]
+	path = gnudiff
+	url = https://github.com/apple-oss-distributions/gnudiff
+[submodule "gnumake"]
+	path = gnumake
+	url = https://github.com/apple-oss-distributions/gnumake
+[submodule "gnuserv"]
+	path = gnuserv
+	url = https://github.com/apple-oss-distributions/gnuserv
+[submodule "gnutar"]
+	path = gnutar
+	url = https://github.com/apple-oss-distributions/gnutar
+[submodule "gnuzip"]
+	path = gnuzip
+	url = https://github.com/apple-oss-distributions/gnuzip
+[submodule "gperf"]
+	path = gperf
+	url = https://github.com/apple-oss-distributions/gperf
+[submodule "grep"]
+	path = grep
+	url = https://github.com/apple-oss-distributions/grep
+[submodule "groff"]
+	path = groff
+	url = https://github.com/apple-oss-distributions/groff
+[submodule "headerdoc"]
+	path = headerdoc
+	url = https://github.com/apple-oss-distributions/headerdoc
+[submodule "jam"]
+	path = jam
+	url = https://github.com/apple-oss-distributions/jam
+[submodule "pb_makefiles"]
+	path = pb_makefiles
+	url = https://github.com/apple-oss-distributions/pb_makefiles
+[submodule "pbx_jamfiles"]
+	path = pbx_jamfiles
+	url = https://github.com/apple-oss-distributions/pbx_jamfiles
+[submodule "project_makefiles"]
+	path = project_makefiles
+	url = https://github.com/apple-oss-distributions/project_makefiles
+[submodule "rcs"]
+	path = rcs
+	url = https://github.com/apple-oss-distributions/rcs
+[submodule "yacc"]
+	path = yacc
+	url = https://github.com/apple-oss-distributions/yacc

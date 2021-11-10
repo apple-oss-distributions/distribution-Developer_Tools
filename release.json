@@ -1,15 +1,250 @@
 {
 	"major_release": "Developer Tools 1",
-	"release": "Developer Tools 1.2",
+	"release": "Developer Tools 1.5",
 	"projects": [
 		{
+			"project": "Csu",
+			"tag": "Csu-47",
+			"updated": true
+		},
+		{
+			"project": "autoconf",
+			"tag": "autoconf-11",
+			"updated": true
+		},
+		{
+			"project": "automake",
+			"tag": "automake-5",
+			"updated": true
+		},
+		{
+			"project": "awk",
+			"tag": "awk-2",
+			"updated": true
+		},
+		{
+			"project": "bash",
+			"tag": "bash-29",
+			"updated": true
+		},
+		{
+			"project": "basic_cmds",
+			"tag": "basic_cmds-38",
+			"updated": true
+		},
+		{
+			"project": "bc",
+			"tag": "bc-10",
+			"updated": true
+		},
+		{
+			"project": "bind9",
+			"tag": "bind9-7",
+			"updated": true
+		},
+		{
+			"project": "bison",
+			"tag": "bison-6",
+			"updated": true
+		},
+		{
+			"project": "bootstrap_cmds",
+			"tag": "bootstrap_cmds-44",
+			"updated": true
+		},
+		{
+			"project": "bsdmake",
+			"tag": "bsdmake-11",
+			"updated": true
+		},
+		{
 			"project": "cctools",
-			"tag": "cctools-499",
+			"tag": "cctools-525",
+			"updated": true
+		},
+		{
+			"project": "cscope",
+			"tag": "cscope-6",
+			"updated": true
+		},
+		{
+			"project": "cvs",
+			"tag": "cvs-30",
+			"updated": true
+		},
+		{
+			"project": "developer_cmds",
+			"tag": "developer_cmds-28",
+			"updated": true
+		},
+		{
+			"project": "diffstat",
+			"tag": "diffstat-1",
+			"updated": true
+		},
+		{
+			"project": "distcc",
+			"tag": "distcc-19",
+			"updated": true
+		},
+		{
+			"project": "emacs",
+			"tag": "emacs-56",
+			"updated": true
+		},
+		{
+			"project": "enscript",
+			"tag": "enscript-9",
+			"updated": true
+		},
+		{
+			"project": "expect",
+			"tag": "expect-1",
+			"updated": true
+		},
+		{
+			"project": "extenTools",
+			"tag": "extenTools-17.3",
+			"updated": true
+		},
+		{
+			"project": "file",
+			"tag": "file-1",
+			"updated": true
+		},
+		{
+			"project": "file_cmds",
+			"tag": "file_cmds-82",
+			"updated": true
+		},
+		{
+			"project": "flex",
+			"tag": "flex-11",
+			"updated": true
+		},
+		{
+			"project": "gas",
+			"tag": "gas-525",
 			"updated": true
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-1640",
+			"tag": "gcc-1762",
+			"updated": true
+		},
+		{
+			"project": "gcc_jaguar",
+			"tag": "gcc_jaguar-1257",
+			"updated": true
+		},
+		{
+			"project": "gcc_legacy",
+			"tag": "gcc_legacy-939",
+			"updated": true
+		},
+		{
+			"project": "gcc_os",
+			"tag": "gcc_os-1666",
+			"updated": true
+		},
+		{
+			"project": "gcc_select",
+			"tag": "gcc_select-25",
+			"updated": true
+		},
+		{
+			"project": "gccfast",
+			"tag": "gccfast-1620",
+			"updated": true
+		},
+		{
+			"project": "gdb",
+			"tag": "gdb-330.1",
+			"updated": true
+		},
+		{
+			"project": "glibtool",
+			"tag": "glibtool-7.2",
+			"updated": true
+		},
+		{
+			"project": "gm4",
+			"tag": "gm4-9",
+			"updated": true
+		},
+		{
+			"project": "gnudiff",
+			"tag": "gnudiff-10.2",
+			"updated": true
+		},
+		{
+			"project": "gnumake",
+			"tag": "gnumake-108",
+			"updated": true
+		},
+		{
+			"project": "gnuserv",
+			"tag": "gnuserv-2",
+			"updated": true
+		},
+		{
+			"project": "gnutar",
+			"tag": "gnutar-421",
+			"updated": true
+		},
+		{
+			"project": "gnuzip",
+			"tag": "gnuzip-13",
+			"updated": true
+		},
+		{
+			"project": "gperf",
+			"tag": "gperf-1",
+			"updated": true
+		},
+		{
+			"project": "grep",
+			"tag": "grep-7",
+			"updated": true
+		},
+		{
+			"project": "groff",
+			"tag": "groff-19",
+			"updated": true
+		},
+		{
+			"project": "headerdoc",
+			"tag": "headerdoc-8.0.22",
+			"updated": true
+		},
+		{
+			"project": "jam",
+			"tag": "jam-294",
+			"updated": true
+		},
+		{
+			"project": "pb_makefiles",
+			"tag": "pb_makefiles-122",
+			"updated": true
+		},
+		{
+			"project": "pbx_jamfiles",
+			"tag": "pbx_jamfiles-372",
+			"updated": true
+		},
+		{
+			"project": "project_makefiles",
+			"tag": "project_makefiles-125",
+			"updated": true
+		},
+		{
+			"project": "rcs",
+			"tag": "rcs-11",
+			"updated": true
+		},
+		{
+			"project": "yacc",
+			"tag": "yacc-6",
 			"updated": true
 		}
 	]
