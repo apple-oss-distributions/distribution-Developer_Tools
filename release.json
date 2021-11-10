@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 9",
-	"release": "Developer Tools 9.3",
+	"release": "Developer Tools 9.3.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,8 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-101",
-			"updated": true
+			"tag": "Git-101"
 		},
 		{
 			"project": "bison",
@@ -21,8 +20,7 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-906",
-			"updated": true
+			"tag": "cctools-906"
 		},
 		{
 			"project": "developer_cmds",
@@ -50,8 +48,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-351.8",
-			"updated": true
+			"tag": "ld64-351.8"
 		},
 		{
 			"project": "pb_makefiles",
@@ -59,8 +56,7 @@
 		},
 		{
 			"project": "subversion",
-			"tag": "subversion-78",
-			"updated": true
+			"tag": "subversion-78"
 		}
 	]
 }
