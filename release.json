@@ -1,171 +1,146 @@
 {
 	"major_release": "Developer Tools 2",
-	"release": "Developer Tools 2.2",
+	"release": "Developer Tools 2.3",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
-			"tag": "CoreOSMakefiles-31",
-			"updated": true
+			"tag": "CoreOSMakefiles-31"
 		},
 		{
 			"project": "autoconf",
-			"tag": "autoconf-12",
-			"updated": true
+			"tag": "autoconf-12"
 		},
 		{
 			"project": "bison",
-			"tag": "bison-6",
-			"updated": true
+			"tag": "bison-6"
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-49",
-			"updated": true
+			"tag": "bootstrap_cmds-49"
 		},
 		{
 			"project": "bsdmake",
-			"tag": "bsdmake-17",
-			"updated": true
+			"tag": "bsdmake-17"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-590.18",
+			"tag": "cctools-590.42.1",
 			"updated": true
 		},
 		{
 			"project": "cvs",
-			"tag": "cvs-33.0.1",
-			"updated": true
+			"tag": "cvs-33.0.1"
 		},
 		{
 			"project": "cvs_wrapped",
-			"tag": "cvs_wrapped-5",
-			"updated": true
+			"tag": "cvs_wrapped-5"
 		},
 		{
 			"project": "cxxfilt",
-			"tag": "cxxfilt-3",
-			"updated": true
+			"tag": "cxxfilt-3"
 		},
 		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-39",
-			"updated": true
+			"tag": "developer_cmds-39"
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-39",
+			"tag": "distcc-42",
 			"updated": true
 		},
 		{
 			"project": "extenTools",
-			"tag": "extenTools-17.3",
-			"updated": true
+			"tag": "extenTools-17.3"
 		},
 		{
 			"project": "files",
-			"tag": "files-470",
+			"tag": "files-473",
 			"updated": true
 		},
 		{
 			"project": "flex",
-			"tag": "flex-13",
-			"updated": true
+			"tag": "flex-13"
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5247",
+			"tag": "gcc-5341",
 			"updated": true
 		},
 		{
 			"project": "gcc_os",
-			"tag": "gcc_os-1819",
-			"updated": true
+			"tag": "gcc_os-1819"
 		},
 		{
 			"project": "gcc_select",
-			"tag": "gcc_select-55",
-			"updated": true
+			"tag": "gcc_select-55"
 		},
 		{
 			"project": "gccfast",
-			"tag": "gccfast-1622",
-			"updated": true
+			"tag": "gccfast-1622"
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-434",
+			"tag": "gdb-477",
 			"updated": true
 		},
 		{
 			"project": "glibtool",
-			"tag": "glibtool-9",
-			"updated": true
+			"tag": "glibtool-9"
 		},
 		{
 			"project": "gm4",
-			"tag": "gm4-10.2",
-			"updated": true
+			"tag": "gm4-10.2"
 		},
 		{
 			"project": "gnumake",
-			"tag": "gnumake-110",
-			"updated": true
+			"tag": "gnumake-110"
 		},
 		{
 			"project": "gnutar",
-			"tag": "gnutar-433",
-			"updated": true
+			"tag": "gnutar-433"
 		},
 		{
 			"project": "gperf",
-			"tag": "gperf-4",
-			"updated": true
+			"tag": "gperf-4"
 		},
 		{
 			"project": "headerdoc",
-			"tag": "headerdoc-8.5.10",
-			"updated": true
+			"tag": "headerdoc-8.5.10"
 		},
 		{
 			"project": "jam",
-			"tag": "jam-605",
+			"tag": "jam-700",
 			"updated": true
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-26.0.81",
+			"tag": "ld64-47.2",
 			"updated": true
 		},
 		{
 			"project": "pb_makefiles",
-			"tag": "pb_makefiles-126",
-			"updated": true
+			"tag": "pb_makefiles-126"
 		},
 		{
 			"project": "pbx_jamfiles",
-			"tag": "pbx_jamfiles-628",
-			"updated": true
+			"tag": "pbx_jamfiles-628"
 		},
 		{
 			"project": "project_makefiles",
-			"tag": "project_makefiles-126",
-			"updated": true
+			"tag": "project_makefiles-126"
 		},
 		{
 			"project": "rcs",
-			"tag": "rcs-11",
-			"updated": true
+			"tag": "rcs-11"
 		},
 		{
 			"project": "wxWidgets",
-			"tag": "wxWidgets-4",
+			"tag": "wxWidgets-6",
 			"updated": true
 		},
 		{
 			"project": "yacc",
-			"tag": "yacc-8",
-			"updated": true
+			"tag": "yacc-8"
 		}
 	]
 }
