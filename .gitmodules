@@ -13,12 +13,6 @@
 [submodule "clang"]
 	path = clang
 	url = https://github.com/apple-oss-distributions/clang
-[submodule "cvs"]
-	path = cvs
-	url = https://github.com/apple-oss-distributions/cvs
-[submodule "cvs_wrapped"]
-	path = cvs_wrapped
-	url = https://github.com/apple-oss-distributions/cvs_wrapped
 [submodule "developer_cmds"]
 	path = developer_cmds
 	url = https://github.com/apple-oss-distributions/developer_cmds
