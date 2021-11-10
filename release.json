@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 3",
-	"release": "Developer Tools 3.1.1",
+	"release": "Developer Tools 3.1.2",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -552,7 +552,8 @@
 		},
 		{
 			"project": "apache_mod_php",
-			"tag": "apache_mod_php-43"
+			"tag": "apache_mod_php-44.1",
+			"updated": true
 		},
 		{
 			"project": "apache_mod_php4",
@@ -640,8 +641,7 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-698.1",
-			"updated": true
+			"tag": "cctools-698.1"
 		},
 		{
 			"project": "cddafs",
@@ -773,12 +773,13 @@
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5488",
+			"tag": "gcc-5490",
 			"updated": true
 		},
 		{
 			"project": "gcc_42",
-			"tag": "gcc_42-5564"
+			"tag": "gcc_42-5566",
+			"updated": true
 		},
 		{
 			"project": "gcc_os",
@@ -794,8 +795,7 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-962",
-			"updated": true
+			"tag": "gdb-962"
 		},
 		{
 			"project": "gdbforcw",
@@ -899,8 +899,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-85.2.1",
-			"updated": true
+			"tag": "ld64-85.2.1"
 		},
 		{
 			"project": "less",
