@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 9",
-	"release": "Developer Tools 9.3.1",
+	"release": "Developer Tools 9.4",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
