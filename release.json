@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 10",
-	"release": "Developer Tools 10.0",
+	"release": "Developer Tools 10.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,8 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-112"
+			"tag": "Git-113",
+			"updated": true
 		},
 		{
 			"project": "bison",
@@ -60,7 +61,8 @@
 		},
 		{
 			"project": "tapi",
-			"tag": "tapi-1000.10.8"
+			"tag": "tapi-1000.10.8",
+			"updated": true
 		}
 	]
 }
