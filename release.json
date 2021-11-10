@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 8",
-	"release": "Developer Tools 8.2.1",
+	"release": "Developer Tools 8.3",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-78",
+			"tag": "Git-81",
 			"updated": true
 		},
 		{
@@ -21,11 +21,8 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-895"
-		},
-		{
-			"project": "clang",
-			"tag": "clang-800.0.42.1"
+			"tag": "cctools-898",
+			"updated": true
 		},
 		{
 			"project": "developer_cmds",
@@ -53,7 +50,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-274.2",
+			"tag": "ld64-278.4",
 			"updated": true
 		},
 		{
@@ -63,10 +60,6 @@
 		{
 			"project": "subversion",
 			"tag": "subversion-71"
-		},
-		{
-			"project": "tapi",
-			"tag": "tapi-1.30"
 		}
 	]
 }
