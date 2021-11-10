@@ -1066,9 +1066,6 @@
 [submodule "IOBDStorageFamily"]
 	path = IOBDStorageFamily
 	url = https://github.com/apple-oss-distributions/IOBDStorageFamily
-[submodule "dyld"]
-	path = dyld
-	url = https://github.com/apple-oss-distributions/dyld
 [submodule "ipsec"]
 	path = ipsec
 	url = https://github.com/apple-oss-distributions/ipsec

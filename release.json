@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 3",
-	"release": "Developer Tools 3.1",
+	"release": "Developer Tools 3.1.1",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -212,8 +212,7 @@
 		},
 		{
 			"project": "Csu",
-			"tag": "Csu-76",
-			"updated": true
+			"tag": "Csu-76"
 		},
 		{
 			"project": "CyrusIMAP",
@@ -269,8 +268,7 @@
 		},
 		{
 			"project": "IOBDStorageFamily",
-			"tag": "IOBDStorageFamily-6",
-			"updated": true
+			"tag": "IOBDStorageFamily-6"
 		},
 		{
 			"project": "IOCDStorageFamily",
@@ -642,7 +640,7 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-698",
+			"tag": "cctools-698.1",
 			"updated": true
 		},
 		{
@@ -691,8 +689,7 @@
 		},
 		{
 			"project": "cxxfilt",
-			"tag": "cxxfilt-7",
-			"updated": true
+			"tag": "cxxfilt-7"
 		},
 		{
 			"project": "developer_cmds",
@@ -712,8 +709,7 @@
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-1088",
-			"updated": true
+			"tag": "distcc-1088"
 		},
 		{
 			"project": "doc_cmds",
@@ -726,11 +722,6 @@
 		{
 			"project": "dtrace",
 			"tag": "dtrace-48"
-		},
-		{
-			"project": "dyld",
-			"tag": "dyld-96.2",
-			"updated": true
 		},
 		{
 			"project": "eap8021x",
@@ -782,13 +773,12 @@
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5484",
+			"tag": "gcc-5488",
 			"updated": true
 		},
 		{
 			"project": "gcc_42",
-			"tag": "gcc_42-5564",
-			"updated": true
+			"tag": "gcc_42-5564"
 		},
 		{
 			"project": "gcc_os",
@@ -804,7 +794,7 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-960",
+			"tag": "gdb-962",
 			"updated": true
 		},
 		{
@@ -877,8 +867,7 @@
 		},
 		{
 			"project": "ipsec",
-			"tag": "ipsec-34",
-			"updated": true
+			"tag": "ipsec-34"
 		},
 		{
 			"project": "ipv6configuration",
@@ -890,8 +879,7 @@
 		},
 		{
 			"project": "jam",
-			"tag": "jam-1056",
-			"updated": true
+			"tag": "jam-1056"
 		},
 		{
 			"project": "kext_tools",
@@ -911,7 +899,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-85",
+			"tag": "ld64-85.2.1",
 			"updated": true
 		},
 		{
