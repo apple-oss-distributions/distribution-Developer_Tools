@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 6",
-	"release": "Developer Tools 6.3",
+	"release": "Developer Tools 6.4",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,8 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-55",
-			"updated": true
+			"tag": "Git-55"
 		},
 		{
 			"project": "bison",
@@ -17,18 +16,15 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-93",
-			"updated": true
+			"tag": "bootstrap_cmds-93"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-870",
-			"updated": true
+			"tag": "cctools-870"
 		},
 		{
 			"project": "clang",
-			"tag": "clang-602.0.53",
-			"updated": true
+			"tag": "clang-602.0.53"
 		},
 		{
 			"project": "cvs",
@@ -60,7 +56,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-242",
+			"tag": "ld64-242.2",
 			"updated": true
 		},
 		{
