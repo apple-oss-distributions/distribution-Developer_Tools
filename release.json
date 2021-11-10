@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 3",
-	"release": "Developer Tools 3.1b",
+	"release": "Developer Tools 3.1",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -212,7 +212,8 @@
 		},
 		{
 			"project": "Csu",
-			"tag": "Csu-75"
+			"tag": "Csu-76",
+			"updated": true
 		},
 		{
 			"project": "CyrusIMAP",
@@ -267,6 +268,11 @@
 			"tag": "IOAudioFamily-164.2.7"
 		},
 		{
+			"project": "IOBDStorageFamily",
+			"tag": "IOBDStorageFamily-6",
+			"updated": true
+		},
+		{
 			"project": "IOCDStorageFamily",
 			"tag": "IOCDStorageFamily-39"
 		},
@@ -292,8 +298,7 @@
 		},
 		{
 			"project": "IOFireWireSBP2",
-			"tag": "IOFireWireSBP2-198.4.0",
-			"updated": true
+			"tag": "IOFireWireSBP2-198.4.0"
 		},
 		{
 			"project": "IOFireWireSerialBusProtocolTransport",
@@ -325,8 +330,7 @@
 		},
 		{
 			"project": "IOPCIFamily",
-			"tag": "IOPCIFamily-103.1",
-			"updated": true
+			"tag": "IOPCIFamily-103.1"
 		},
 		{
 			"project": "IOSCSIParallelFamily",
@@ -509,28 +513,8 @@
 			"tag": "WebCore-5523.10.3"
 		},
 		{
-			"project": "X11apps",
-			"tag": "X11apps-13"
-		},
-		{
-			"project": "X11fonts",
-			"tag": "X11fonts-5"
-		},
-		{
-			"project": "X11libs",
-			"tag": "X11libs-16"
-		},
-		{
 			"project": "X11misc",
 			"tag": "X11misc-6"
-		},
-		{
-			"project": "X11proto",
-			"tag": "X11proto-14"
-		},
-		{
-			"project": "X11server",
-			"tag": "X11server-46"
 		},
 		{
 			"project": "adv_cmds",
@@ -658,7 +642,8 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-667.3"
+			"tag": "cctools-698",
+			"updated": true
 		},
 		{
 			"project": "cddafs",
@@ -706,7 +691,8 @@
 		},
 		{
 			"project": "cxxfilt",
-			"tag": "cxxfilt-6"
+			"tag": "cxxfilt-7",
+			"updated": true
 		},
 		{
 			"project": "developer_cmds",
@@ -726,7 +712,8 @@
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-881"
+			"tag": "distcc-1088",
+			"updated": true
 		},
 		{
 			"project": "doc_cmds",
@@ -739,6 +726,11 @@
 		{
 			"project": "dtrace",
 			"tag": "dtrace-48"
+		},
+		{
+			"project": "dyld",
+			"tag": "dyld-96.2",
+			"updated": true
 		},
 		{
 			"project": "eap8021x",
@@ -778,8 +770,7 @@
 		},
 		{
 			"project": "files",
-			"tag": "files-520.1",
-			"updated": true
+			"tag": "files-520.1"
 		},
 		{
 			"project": "flex",
@@ -791,12 +782,12 @@
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5470.3",
+			"tag": "gcc-5484",
 			"updated": true
 		},
 		{
 			"project": "gcc_42",
-			"tag": "gcc_42-5553",
+			"tag": "gcc_42-5564",
 			"updated": true
 		},
 		{
@@ -813,13 +804,12 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-908",
+			"tag": "gdb-960",
 			"updated": true
 		},
 		{
 			"project": "gdbforcw",
-			"tag": "gdbforcw-6",
-			"updated": true
+			"tag": "gdbforcw-6"
 		},
 		{
 			"project": "glibtool",
@@ -886,6 +876,11 @@
 			"tag": "iodbc-34"
 		},
 		{
+			"project": "ipsec",
+			"tag": "ipsec-34",
+			"updated": true
+		},
+		{
 			"project": "ipv6configuration",
 			"tag": "ipv6configuration-27"
 		},
@@ -895,7 +890,8 @@
 		},
 		{
 			"project": "jam",
-			"tag": "jam-851"
+			"tag": "jam-1056",
+			"updated": true
 		},
 		{
 			"project": "kext_tools",
@@ -912,6 +908,11 @@
 		{
 			"project": "launchd",
 			"tag": "launchd-257"
+		},
+		{
+			"project": "ld64",
+			"tag": "ld64-85",
+			"updated": true
 		},
 		{
 			"project": "less",
@@ -1199,13 +1200,11 @@
 		},
 		{
 			"project": "pb_makefiles",
-			"tag": "pb_makefiles-1000",
-			"updated": true
+			"tag": "pb_makefiles-1000"
 		},
 		{
 			"project": "pbx_jamfiles",
-			"tag": "pbx_jamfiles-1000",
-			"updated": true
+			"tag": "pbx_jamfiles-1000"
 		},
 		{
 			"project": "pdisk",

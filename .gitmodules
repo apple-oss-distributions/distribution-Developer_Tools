@@ -376,24 +376,9 @@
 [submodule "WebCore"]
 	path = WebCore
 	url = https://github.com/apple-oss-distributions/WebCore
-[submodule "X11apps"]
-	path = X11apps
-	url = https://github.com/apple-oss-distributions/X11apps
-[submodule "X11fonts"]
-	path = X11fonts
-	url = https://github.com/apple-oss-distributions/X11fonts
-[submodule "X11libs"]
-	path = X11libs
-	url = https://github.com/apple-oss-distributions/X11libs
 [submodule "X11misc"]
 	path = X11misc
 	url = https://github.com/apple-oss-distributions/X11misc
-[submodule "X11proto"]
-	path = X11proto
-	url = https://github.com/apple-oss-distributions/X11proto
-[submodule "X11server"]
-	path = X11server
-	url = https://github.com/apple-oss-distributions/X11server
 [submodule "adv_cmds"]
 	path = adv_cmds
 	url = https://github.com/apple-oss-distributions/adv_cmds
@@ -1078,3 +1063,15 @@
 [submodule "zsh"]
 	path = zsh
 	url = https://github.com/apple-oss-distributions/zsh
+[submodule "IOBDStorageFamily"]
+	path = IOBDStorageFamily
+	url = https://github.com/apple-oss-distributions/IOBDStorageFamily
+[submodule "dyld"]
+	path = dyld
+	url = https://github.com/apple-oss-distributions/dyld
+[submodule "ipsec"]
+	path = ipsec
+	url = https://github.com/apple-oss-distributions/ipsec
+[submodule "ld64"]
+	path = ld64
+	url = https://github.com/apple-oss-distributions/ld64
