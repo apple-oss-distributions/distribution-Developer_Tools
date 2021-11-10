@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 9",
-	"release": "Developer Tools 9.0.1",
+	"release": "Developer Tools 9.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,8 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-94"
+			"tag": "Git-96",
+			"updated": true
 		},
 		{
 			"project": "bison",
@@ -48,7 +49,8 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-302.3"
+			"tag": "ld64-302.3.1",
+			"updated": true
 		},
 		{
 			"project": "pb_makefiles",
