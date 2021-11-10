@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 5",
-	"release": "Developer Tools 5.0",
+	"release": "Developer Tools 5.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,8 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-47"
+			"tag": "Git-48",
+			"updated": true
 		},
 		{
 			"project": "bison",
@@ -20,11 +21,13 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-846.2.1"
+			"tag": "cctools-855",
+			"updated": true
 		},
 		{
 			"project": "clang",
-			"tag": "clang-500.2.76"
+			"tag": "clang-503.0.38",
+			"updated": true
 		},
 		{
 			"project": "cvs",
@@ -36,7 +39,8 @@
 		},
 		{
 			"project": "gcc_select",
-			"tag": "gcc_select-131"
+			"tag": "gcc_select-132",
+			"updated": true
 		},
 		{
 			"project": "gdb",
@@ -60,11 +64,13 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-224.1"
+			"tag": "ld64-236.3",
+			"updated": true
 		},
 		{
 			"project": "lldb",
-			"tag": "lldb-300.2.47"
+			"tag": "lldb-310.2.36",
+			"updated": true
 		},
 		{
 			"project": "pb_makefiles",
