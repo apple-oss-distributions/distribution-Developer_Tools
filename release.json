@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 1",
-	"release": "Developer Tools WWDC2003DP",
+	"release": "Developer Tools WWDC2004DP",
 	"projects": [
 		{
 			"project": "autoconf",
@@ -11,16 +11,48 @@
 			"tag": "bison-6"
 		},
 		{
+			"project": "bootstrap_cmds",
+			"tag": "bootstrap_cmds-44"
+		},
+		{
+			"project": "bsdmake",
+			"tag": "bsdmake-11"
+		},
+		{
 			"project": "cctools",
-			"tag": "cctools-478"
+			"tag": "cctools-523"
 		},
 		{
 			"project": "cvs",
-			"tag": "cvs-29"
+			"tag": "cvs-30"
+		},
+		{
+			"project": "developer_cmds",
+			"tag": "developer_cmds-29"
+		},
+		{
+			"project": "distcc",
+			"tag": "distcc-20"
+		},
+		{
+			"project": "gcc",
+			"tag": "gcc-1765"
+		},
+		{
+			"project": "gcc_os",
+			"tag": "gcc_os-1660"
+		},
+		{
+			"project": "gccfast",
+			"tag": "gccfast-1614"
+		},
+		{
+			"project": "gdb",
+			"tag": "gdb-356"
 		},
 		{
 			"project": "glibtool",
-			"tag": "glibtool-5"
+			"tag": "glibtool-7.2"
 		},
 		{
 			"project": "gm4",
@@ -28,23 +60,19 @@
 		},
 		{
 			"project": "gnumake",
-			"tag": "gnumake-106"
+			"tag": "gnumake-108"
 		},
 		{
 			"project": "gnutar",
-			"tag": "gnutar-419"
+			"tag": "gnutar-421"
 		},
 		{
 			"project": "gperf",
-			"tag": "gperf-1"
-		},
-		{
-			"project": "headerdoc",
-			"tag": "headerdoc-7.3.0"
+			"tag": "gperf-2"
 		},
 		{
 			"project": "rcs",
-			"tag": "rcs-10"
+			"tag": "rcs-11"
 		}
 	]
 }
