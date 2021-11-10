@@ -31,9 +31,6 @@
 [submodule "distcc"]
 	path = distcc
 	url = https://github.com/apple-oss-distributions/distcc
-[submodule "gcc"]
-	path = gcc
-	url = https://github.com/apple-oss-distributions/gcc
 [submodule "gcc_select"]
 	path = gcc_select
 	url = https://github.com/apple-oss-distributions/gcc_select

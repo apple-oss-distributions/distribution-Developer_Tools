@@ -1,38 +1,32 @@
 {
 	"major_release": "Developer Tools 4",
-	"release": "Developer Tools 4.1",
+	"release": "Developer Tools 4.2",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
-			"tag": "CoreOSMakefiles-64",
+			"tag": "CoreOSMakefiles-64.1",
 			"updated": true
 		},
 		{
 			"project": "Git",
-			"tag": "Git-17",
+			"tag": "Git-19",
 			"updated": true
 		},
 		{
 			"project": "autoconf",
-			"tag": "autoconf-17.1",
-			"updated": true
+			"tag": "autoconf-17.1"
 		},
 		{
 			"project": "automake",
-			"tag": "automake-10",
-			"updated": true
+			"tag": "automake-10"
 		},
 		{
 			"project": "bison",
 			"tag": "bison-13"
 		},
 		{
-			"project": "bison1",
-			"tag": "bison1-1"
-		},
-		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-79",
+			"tag": "bootstrap_cmds-80",
 			"updated": true
 		},
 		{
@@ -41,12 +35,12 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-806",
+			"tag": "cctools-809",
 			"updated": true
 		},
 		{
 			"project": "clang",
-			"tag": "clang-163.7.1",
+			"tag": "clang-211.10.1",
 			"updated": true
 		},
 		{
@@ -55,32 +49,26 @@
 		},
 		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-55",
-			"updated": true
+			"tag": "developer_cmds-55"
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-2503",
+			"tag": "distcc-2805",
 			"updated": true
 		},
 		{
-			"project": "gcc",
-			"tag": "gcc-5666.3"
-		},
-		{
 			"project": "gcc_select",
-			"tag": "gcc_select-102.2",
+			"tag": "gcc_select-102.4",
 			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-1705",
+			"tag": "gdb-1708",
 			"updated": true
 		},
 		{
 			"project": "glibtool",
-			"tag": "glibtool-17",
-			"updated": true
+			"tag": "glibtool-17"
 		},
 		{
 			"project": "gm4",
@@ -96,22 +84,22 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-123.2.1",
+			"tag": "ld64-127.2",
 			"updated": true
 		},
 		{
 			"project": "libcpp",
-			"tag": "libcpp-19",
+			"tag": "libcpp-31",
 			"updated": true
 		},
 		{
 			"project": "lldb",
-			"tag": "lldb-69",
+			"tag": "lldb-76",
 			"updated": true
 		},
 		{
 			"project": "llvmgcc42",
-			"tag": "llvmgcc42-2335.15",
+			"tag": "llvmgcc42-2336.1",
 			"updated": true
 		},
 		{
@@ -120,12 +108,11 @@
 		},
 		{
 			"project": "rcs",
-			"tag": "rcs-15",
-			"updated": true
+			"tag": "rcs-15"
 		},
 		{
 			"project": "subversion",
-			"tag": "subversion-45",
+			"tag": "subversion-46",
 			"updated": true
 		}
 	]
