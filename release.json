@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 8",
-	"release": "Developer Tools 8.3.1",
+	"release": "Developer Tools 8.3.2",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
