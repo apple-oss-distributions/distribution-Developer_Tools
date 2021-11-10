@@ -1,10 +1,15 @@
 {
 	"major_release": "Developer Tools 1",
-	"release": "Developer Tools Dec2001",
+	"release": "Developer Tools May2002",
 	"projects": [
 		{
 			"project": "autoconf",
 			"tag": "autoconf-8"
+		},
+		{
+			"project": "binutils",
+			"tag": "binutils-27",
+			"updated": true
 		},
 		{
 			"project": "bison",
@@ -12,19 +17,33 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-384.1"
+			"tag": "cctools-410.1",
+			"updated": true
 		},
 		{
 			"project": "cvs",
-			"tag": "cvs-19"
+			"tag": "cvs-27",
+			"updated": true
+		},
+		{
+			"project": "gas",
+			"tag": "gas-410.1",
+			"updated": true
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-934.3"
+			"tag": "gcc-937.2",
+			"updated": true
+		},
+		{
+			"project": "gcc3",
+			"tag": "gcc3-1041",
+			"updated": true
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-203"
+			"tag": "gdb-213",
+			"updated": true
 		},
 		{
 			"project": "glibtool",

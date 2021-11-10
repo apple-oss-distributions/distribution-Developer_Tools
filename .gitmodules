@@ -31,3 +31,12 @@
 [submodule "rcs"]
 	path = rcs
 	url = https://github.com/apple-oss-distributions/rcs
+[submodule "binutils"]
+	path = binutils
+	url = https://github.com/apple-oss-distributions/binutils
+[submodule "gas"]
+	path = gas
+	url = https://github.com/apple-oss-distributions/gas
+[submodule "gcc3"]
+	path = gcc3
+	url = https://github.com/apple-oss-distributions/gcc3
