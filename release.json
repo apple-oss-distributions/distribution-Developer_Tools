@@ -1,6 +1,6 @@
 {
-	"major_release": "Developer Tools 5",
-	"release": "Developer Tools 5.0",
+	"major_release": "Developer Tools 6",
+	"release": "Developer Tools 6.0",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-47"
+			"tag": "Git-50"
 		},
 		{
 			"project": "bison",
@@ -16,15 +16,15 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-86"
+			"tag": "bootstrap_cmds-91"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-846.2.1"
+			"tag": "cctools-862"
 		},
 		{
 			"project": "clang",
-			"tag": "clang-500.2.76"
+			"tag": "clang-600.0.51"
 		},
 		{
 			"project": "cvs",
@@ -36,11 +36,7 @@
 		},
 		{
 			"project": "gcc_select",
-			"tag": "gcc_select-131"
-		},
-		{
-			"project": "gdb",
-			"tag": "gdb-2831"
+			"tag": "gcc_select-133"
 		},
 		{
 			"project": "gm4",
@@ -52,19 +48,15 @@
 		},
 		{
 			"project": "gperf",
-			"tag": "gperf-11"
+			"tag": "gperf-13"
 		},
 		{
 			"project": "headerdoc",
-			"tag": "headerdoc-8.9.17"
+			"tag": "headerdoc-8.9.26"
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-224.1"
-		},
-		{
-			"project": "lldb",
-			"tag": "lldb-300.2.47"
+			"tag": "ld64-241.9"
 		},
 		{
 			"project": "pb_makefiles",
@@ -72,7 +64,7 @@
 		},
 		{
 			"project": "subversion",
-			"tag": "subversion-62"
+			"tag": "subversion-65"
 		}
 	]
 }

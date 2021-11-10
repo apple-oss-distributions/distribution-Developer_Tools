@@ -25,9 +25,6 @@
 [submodule "gcc_select"]
 	path = gcc_select
 	url = https://github.com/apple-oss-distributions/gcc_select
-[submodule "gdb"]
-	path = gdb
-	url = https://github.com/apple-oss-distributions/gdb
 [submodule "gm4"]
 	path = gm4
 	url = https://github.com/apple-oss-distributions/gm4
@@ -49,9 +46,6 @@
 [submodule "Git"]
 	path = Git
 	url = https://github.com/apple-oss-distributions/Git
-[submodule "lldb"]
-	path = lldb
-	url = https://github.com/apple-oss-distributions/lldb
 [submodule "subversion"]
 	path = subversion
 	url = https://github.com/apple-oss-distributions/subversion
