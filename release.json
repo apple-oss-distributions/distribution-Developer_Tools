@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 3",
-	"release": "Developer Tools 3.1.3",
+	"release": "Developer Tools 3.1.4",
 	"projects": [
 		{
 			"project": "Apple16X50Serial",
@@ -204,8 +204,7 @@
 		},
 		{
 			"project": "CoreOSMakefiles",
-			"tag": "CoreOSMakefiles-61",
-			"updated": true
+			"tag": "CoreOSMakefiles-61"
 		},
 		{
 			"project": "CrackLib",
@@ -629,13 +628,11 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-68",
-			"updated": true
+			"tag": "bootstrap_cmds-68"
 		},
 		{
 			"project": "bsdmake",
-			"tag": "bsdmake-24",
-			"updated": true
+			"tag": "bsdmake-24"
 		},
 		{
 			"project": "bsm",
@@ -715,7 +712,7 @@
 		},
 		{
 			"project": "distcc",
-			"tag": "distcc-1160",
+			"tag": "distcc-1201",
 			"updated": true
 		},
 		{
@@ -780,12 +777,11 @@
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-5493",
-			"updated": true
+			"tag": "gcc-5493"
 		},
 		{
 			"project": "gcc_42",
-			"tag": "gcc_42-5574",
+			"tag": "gcc_42-5577",
 			"updated": true
 		},
 		{
@@ -802,7 +798,7 @@
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-966",
+			"tag": "gdb-967",
 			"updated": true
 		},
 		{
@@ -887,8 +883,7 @@
 		},
 		{
 			"project": "jam",
-			"tag": "jam-1160",
-			"updated": true
+			"tag": "jam-1160"
 		},
 		{
 			"project": "kext_tools",
