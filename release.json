@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 8",
-	"release": "Developer Tools 8.3",
+	"release": "Developer Tools 8.3.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,8 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-81",
-			"updated": true
+			"tag": "Git-81"
 		},
 		{
 			"project": "bison",
@@ -21,8 +20,7 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-898",
-			"updated": true
+			"tag": "cctools-898"
 		},
 		{
 			"project": "developer_cmds",
@@ -50,8 +48,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-278.4",
-			"updated": true
+			"tag": "ld64-278.4"
 		},
 		{
 			"project": "pb_makefiles",
