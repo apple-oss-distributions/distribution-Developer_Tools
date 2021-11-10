@@ -1,50 +1,26 @@
 {
-	"major_release": "Developer Tools 1",
-	"release": "Developer Tools Dec2001",
+	"major_release": "Developer Tools 2",
+	"release": "Developer Tools 2.1",
 	"projects": [
 		{
-			"project": "autoconf",
-			"tag": "autoconf-8"
-		},
-		{
-			"project": "bison",
-			"tag": "bison-5.1"
-		},
-		{
 			"project": "cctools",
-			"tag": "cctools-384.1"
+			"tag": "cctools-590"
 		},
 		{
-			"project": "cvs",
-			"tag": "cvs-19"
+			"project": "distcc",
+			"tag": "distcc-31.0.81"
 		},
 		{
 			"project": "gcc",
-			"tag": "gcc-934.3"
+			"tag": "gcc-5026"
+		},
+		{
+			"project": "gcc_select",
+			"tag": "gcc_select-48"
 		},
 		{
 			"project": "gdb",
-			"tag": "gdb-203"
-		},
-		{
-			"project": "glibtool",
-			"tag": "glibtool-3.1"
-		},
-		{
-			"project": "gm4",
-			"tag": "gm4-6"
-		},
-		{
-			"project": "gnumake",
-			"tag": "gnumake-104"
-		},
-		{
-			"project": "gnutar",
-			"tag": "gnutar-410.1"
-		},
-		{
-			"project": "rcs",
-			"tag": "rcs-10"
+			"tag": "gdb-413"
 		}
 	]
 }
