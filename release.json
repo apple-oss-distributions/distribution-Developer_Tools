@@ -1,11 +1,50 @@
 {
 	"major_release": "Developer Tools 1",
-	"release": "Developer Tools Nov2004",
+	"release": "Developer Tools WWDC2003DP",
 	"projects": [
 		{
-			"project": "gcc_os",
-			"tag": "gcc_os-1671",
-			"updated": true
+			"project": "autoconf",
+			"tag": "autoconf-11"
+		},
+		{
+			"project": "bison",
+			"tag": "bison-6"
+		},
+		{
+			"project": "cctools",
+			"tag": "cctools-478"
+		},
+		{
+			"project": "cvs",
+			"tag": "cvs-29"
+		},
+		{
+			"project": "glibtool",
+			"tag": "glibtool-5"
+		},
+		{
+			"project": "gm4",
+			"tag": "gm4-9"
+		},
+		{
+			"project": "gnumake",
+			"tag": "gnumake-106"
+		},
+		{
+			"project": "gnutar",
+			"tag": "gnutar-419"
+		},
+		{
+			"project": "gperf",
+			"tag": "gperf-1"
+		},
+		{
+			"project": "headerdoc",
+			"tag": "headerdoc-7.3.0"
+		},
+		{
+			"project": "rcs",
+			"tag": "rcs-10"
 		}
 	]
 }

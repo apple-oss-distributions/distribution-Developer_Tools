@@ -1,3 +1,33 @@
-[submodule "gcc_os"]
-	path = gcc_os
-	url = https://github.com/apple-oss-distributions/gcc_os
+[submodule "autoconf"]
+	path = autoconf
+	url = https://github.com/apple-oss-distributions/autoconf
+[submodule "bison"]
+	path = bison
+	url = https://github.com/apple-oss-distributions/bison
+[submodule "cctools"]
+	path = cctools
+	url = https://github.com/apple-oss-distributions/cctools
+[submodule "cvs"]
+	path = cvs
+	url = https://github.com/apple-oss-distributions/cvs
+[submodule "glibtool"]
+	path = glibtool
+	url = https://github.com/apple-oss-distributions/glibtool
+[submodule "gm4"]
+	path = gm4
+	url = https://github.com/apple-oss-distributions/gm4
+[submodule "gnumake"]
+	path = gnumake
+	url = https://github.com/apple-oss-distributions/gnumake
+[submodule "gnutar"]
+	path = gnutar
+	url = https://github.com/apple-oss-distributions/gnutar
+[submodule "gperf"]
+	path = gperf
+	url = https://github.com/apple-oss-distributions/gperf
+[submodule "headerdoc"]
+	path = headerdoc
+	url = https://github.com/apple-oss-distributions/headerdoc
+[submodule "rcs"]
+	path = rcs
+	url = https://github.com/apple-oss-distributions/rcs
