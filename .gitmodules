@@ -1,39 +1,12 @@
-[submodule "CoreOSMakefiles"]
-	path = CoreOSMakefiles
-	url = https://github.com/apple-oss-distributions/CoreOSMakefiles
-[submodule "bison"]
-	path = bison
-	url = https://github.com/apple-oss-distributions/bison
 [submodule "bootstrap_cmds"]
 	path = bootstrap_cmds
 	url = https://github.com/apple-oss-distributions/bootstrap_cmds
 [submodule "cctools"]
 	path = cctools
 	url = https://github.com/apple-oss-distributions/cctools
-[submodule "developer_cmds"]
-	path = developer_cmds
-	url = https://github.com/apple-oss-distributions/developer_cmds
-[submodule "gm4"]
-	path = gm4
-	url = https://github.com/apple-oss-distributions/gm4
-[submodule "gnumake"]
-	path = gnumake
-	url = https://github.com/apple-oss-distributions/gnumake
-[submodule "gperf"]
-	path = gperf
-	url = https://github.com/apple-oss-distributions/gperf
-[submodule "headerdoc"]
-	path = headerdoc
-	url = https://github.com/apple-oss-distributions/headerdoc
 [submodule "ld64"]
 	path = ld64
 	url = https://github.com/apple-oss-distributions/ld64
-[submodule "pb_makefiles"]
-	path = pb_makefiles
-	url = https://github.com/apple-oss-distributions/pb_makefiles
-[submodule "Git"]
-	path = Git
-	url = https://github.com/apple-oss-distributions/Git
-[submodule "libgit2"]
-	path = libgit2
-	url = https://github.com/apple-oss-distributions/libgit2
+[submodule "tapi"]
+	path = tapi
+	url = https://github.com/apple-oss-distributions/tapi
