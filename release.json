@@ -3,6 +3,18 @@
 	"release": "Developer Tools 13.0",
 	"projects": [
 		{
+			"project": "CoreOSMakefiles",
+			"tag": "CoreOSMakefiles-79"
+		},
+		{
+			"project": "Git",
+			"tag": "Git-130"
+		},
+		{
+			"project": "bison",
+			"tag": "bison-14"
+		},
+		{
 			"project": "bootstrap_cmds",
 			"tag": "bootstrap_cmds-122"
 		},
@@ -11,8 +23,36 @@
 			"tag": "cctools-986"
 		},
 		{
+			"project": "developer_cmds",
+			"tag": "developer_cmds-66"
+		},
+		{
+			"project": "gm4",
+			"tag": "gm4-16"
+		},
+		{
+			"project": "gnumake",
+			"tag": "gnumake-133"
+		},
+		{
+			"project": "gperf",
+			"tag": "gperf-13"
+		},
+		{
+			"project": "headerdoc",
+			"tag": "headerdoc-8.9.29"
+		},
+		{
 			"project": "ld64",
 			"tag": "ld64-711"
+		},
+		{
+			"project": "libgit2",
+			"tag": "libgit2-26"
+		},
+		{
+			"project": "pb_makefiles",
+			"tag": "pb_makefiles-1006"
 		},
 		{
 			"project": "tapi",
