@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 13",
-	"release": "Developer Tools 13.3.1",
+	"release": "Developer Tools 13.4.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-132"
+			"tag": "Git-133"
 		},
 		{
 			"project": "bison",
