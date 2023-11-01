@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 13",
-	"release": "Developer Tools 13.2.1",
+	"release": "Developer Tools 13.3.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -20,7 +20,7 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-986"
+			"tag": "cctools-994.1"
 		},
 		{
 			"project": "developer_cmds",
@@ -44,11 +44,11 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-711"
+			"tag": "ld64-762"
 		},
 		{
 			"project": "libgit2",
-			"tag": "libgit2-26"
+			"tag": "libgit2-27"
 		},
 		{
 			"project": "pb_makefiles",
