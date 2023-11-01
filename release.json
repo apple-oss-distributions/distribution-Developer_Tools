@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 14",
-	"release": "Developer Tools 14.0",
+	"release": "Developer Tools 14.2",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-136"
+			"tag": "Git-137.1"
 		},
 		{
 			"project": "bison",
@@ -44,7 +44,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-819.6"
+			"tag": "ld64-820.1"
 		},
 		{
 			"project": "libgit2",
