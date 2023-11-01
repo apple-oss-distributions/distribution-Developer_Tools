@@ -1,22 +1,62 @@
 {
-	"major_release": "Developer Tools 13",
-	"release": "Developer Tools 13.0",
+	"major_release": "Developer Tools 14",
+	"release": "Developer Tools 14.0",
 	"projects": [
 		{
+			"project": "CoreOSMakefiles",
+			"tag": "CoreOSMakefiles-79"
+		},
+		{
+			"project": "Git",
+			"tag": "Git-136"
+		},
+		{
+			"project": "bison",
+			"tag": "bison-14"
+		},
+		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-122"
+			"tag": "bootstrap_cmds-128"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-986"
+			"tag": "cctools-1001.2"
+		},
+		{
+			"project": "developer_cmds",
+			"tag": "developer_cmds-67"
+		},
+		{
+			"project": "gm4",
+			"tag": "gm4-16"
+		},
+		{
+			"project": "gnumake",
+			"tag": "gnumake-135"
+		},
+		{
+			"project": "gperf",
+			"tag": "gperf-13"
+		},
+		{
+			"project": "headerdoc",
+			"tag": "headerdoc-8.9.30"
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-711"
+			"tag": "ld64-819.6"
+		},
+		{
+			"project": "libgit2",
+			"tag": "libgit2-27"
+		},
+		{
+			"project": "pb_makefiles",
+			"tag": "pb_makefiles-1006"
 		},
 		{
 			"project": "tapi",
-			"tag": "tapi-1300.0.6.5"
+			"tag": "tapi-1400.0.11"
 		}
 	]
 }
