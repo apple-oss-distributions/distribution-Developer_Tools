@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 14",
-	"release": "Developer Tools 14.2",
+	"release": "Developer Tools 14.3.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-137.1"
+			"tag": "Git-143"
 		},
 		{
 			"project": "bison",
@@ -16,11 +16,11 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-128"
+			"tag": "bootstrap_cmds-129"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-1001.2"
+			"tag": "cctools-1005.2"
 		},
 		{
 			"project": "developer_cmds",
@@ -44,7 +44,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-820.1"
+			"tag": "ld64-857.1"
 		},
 		{
 			"project": "libgit2",
@@ -52,7 +52,7 @@
 		},
 		{
 			"project": "pb_makefiles",
-			"tag": "pb_makefiles-1006"
+			"tag": "pb_makefiles-1008"
 		},
 		{
 			"project": "tapi",
