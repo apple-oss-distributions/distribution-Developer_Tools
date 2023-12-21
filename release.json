@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 15",
-	"release": "Developer Tools 15.0",
+	"release": "Developer Tools 15.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -20,11 +20,15 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-1009.2"
+			"tag": "cctools-1009.3"
 		},
 		{
 			"project": "developer_cmds",
 			"tag": "developer_cmds-68"
+		},
+		{
+			"project": "flex",
+			"tag": "flex-34"
 		},
 		{
 			"project": "gm4",
@@ -48,7 +52,7 @@
 		},
 		{
 			"project": "libgit2",
-			"tag": "libgit2-27"
+			"tag": "libgit2-28"
 		},
 		{
 			"project": "pb_makefiles",
