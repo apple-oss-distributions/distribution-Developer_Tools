@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 15",
-	"release": "Developer Tools 15.2",
+	"release": "Developer Tools 15.3",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,11 +8,11 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-145"
+			"tag": "Git-146"
 		},
 		{
 			"project": "bison",
-			"tag": "bison-14"
+			"tag": "bison-15"
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -20,11 +20,11 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-1009.3"
+			"tag": "cctools-1010.6"
 		},
 		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-68"
+			"tag": "developer_cmds-79"
 		},
 		{
 			"project": "flex",
@@ -32,7 +32,7 @@
 		},
 		{
 			"project": "gm4",
-			"tag": "gm4-16"
+			"tag": "gm4-17"
 		},
 		{
 			"project": "gnumake",
@@ -40,7 +40,7 @@
 		},
 		{
 			"project": "gperf",
-			"tag": "gperf-13"
+			"tag": "gperf-14"
 		},
 		{
 			"project": "headerdoc",
@@ -48,7 +48,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-907"
+			"tag": "ld64-951.9"
 		},
 		{
 			"project": "libgit2",
