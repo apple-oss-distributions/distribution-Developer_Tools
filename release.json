@@ -1,6 +1,6 @@
 {
-	"major_release": "Developer Tools 15",
-	"release": "Developer Tools 15.0",
+	"major_release": "Developer Tools 16",
+	"release": "Developer Tools 16.0",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,11 +8,11 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-145"
+			"tag": "Git-154"
 		},
 		{
 			"project": "bison",
-			"tag": "bison-14"
+			"tag": "bison-16"
 		},
 		{
 			"project": "bootstrap_cmds",
@@ -20,43 +20,47 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-1009.2"
+			"tag": "cctools-1021.4"
 		},
 		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-68"
+			"tag": "developer_cmds-83"
+		},
+		{
+			"project": "flex",
+			"tag": "flex-35"
 		},
 		{
 			"project": "gm4",
-			"tag": "gm4-16"
+			"tag": "gm4-19"
 		},
 		{
 			"project": "gnumake",
-			"tag": "gnumake-135"
+			"tag": "gnumake-136"
 		},
 		{
 			"project": "gperf",
-			"tag": "gperf-13"
+			"tag": "gperf-15"
 		},
 		{
 			"project": "headerdoc",
-			"tag": "headerdoc-8.9.31"
+			"tag": "headerdoc-8.9.32"
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-907"
+			"tag": "ld64-954.16"
 		},
 		{
 			"project": "libgit2",
-			"tag": "libgit2-27"
+			"tag": "libgit2-30"
 		},
 		{
 			"project": "pb_makefiles",
-			"tag": "pb_makefiles-1008"
+			"tag": "pb_makefiles-1009"
 		},
 		{
 			"project": "tapi",
-			"tag": "tapi-1500.0.12.3"
+			"tag": "tapi-1600.0.11.8"
 		}
 	]
 }

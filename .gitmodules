@@ -40,3 +40,6 @@
 [submodule "tapi"]
 	path = tapi
 	url = https://github.com/apple-oss-distributions/tapi
+[submodule "flex"]
+	path = flex
+	url = https://github.com/apple-oss-distributions/flex
