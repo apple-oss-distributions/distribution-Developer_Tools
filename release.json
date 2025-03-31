@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 16",
-	"release": "Developer Tools 16.0",
+	"release": "Developer Tools 16.2",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -20,7 +20,7 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-1021.4"
+			"tag": "cctools-1022.2"
 		},
 		{
 			"project": "developer_cmds",
