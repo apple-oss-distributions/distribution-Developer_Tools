@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 16",
-	"release": "Developer Tools 16.2",
+	"release": "Developer Tools 16.3",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -16,11 +16,11 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-129"
+			"tag": "bootstrap_cmds-138"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-1022.2"
+			"tag": "cctools-1024.3"
 		},
 		{
 			"project": "developer_cmds",
@@ -48,7 +48,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-954.16"
+			"tag": "ld64-955.13"
 		},
 		{
 			"project": "libgit2",
