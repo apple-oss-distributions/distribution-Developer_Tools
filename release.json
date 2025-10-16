@@ -1,6 +1,6 @@
 {
-	"major_release": "Developer Tools 16",
-	"release": "Developer Tools 16.0",
+	"major_release": "Developer Tools 26",
+	"release": "Developer Tools 26.0.1",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -8,7 +8,7 @@
 		},
 		{
 			"project": "Git",
-			"tag": "Git-154"
+			"tag": "Git-155"
 		},
 		{
 			"project": "bison",
@@ -16,15 +16,15 @@
 		},
 		{
 			"project": "bootstrap_cmds",
-			"tag": "bootstrap_cmds-129"
+			"tag": "bootstrap_cmds-138"
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-1021.4"
+			"tag": "cctools-1030.6.3"
 		},
 		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-83"
+			"tag": "developer_cmds-87"
 		},
 		{
 			"project": "flex",
@@ -48,7 +48,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-954.16"
+			"tag": "ld64-956.6"
 		},
 		{
 			"project": "libgit2",
