@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 26",
-	"release": "Developer Tools 26.0.1",
+	"release": "Developer Tools 26.2",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -32,7 +32,7 @@
 		},
 		{
 			"project": "gm4",
-			"tag": "gm4-19"
+			"tag": "gm4-20"
 		},
 		{
 			"project": "gnumake",
