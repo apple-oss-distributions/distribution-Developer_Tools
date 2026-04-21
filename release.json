@@ -1,6 +1,6 @@
 {
 	"major_release": "Developer Tools 26",
-	"release": "Developer Tools 26.2",
+	"release": "Developer Tools 26.4",
 	"projects": [
 		{
 			"project": "CoreOSMakefiles",
@@ -20,11 +20,11 @@
 		},
 		{
 			"project": "cctools",
-			"tag": "cctools-1030.6.3"
+			"tag": "cctools-1035.1.102"
 		},
 		{
 			"project": "developer_cmds",
-			"tag": "developer_cmds-87"
+			"tag": "developer_cmds-89"
 		},
 		{
 			"project": "flex",
@@ -48,7 +48,7 @@
 		},
 		{
 			"project": "ld64",
-			"tag": "ld64-956.6"
+			"tag": "ld64-957.1"
 		},
 		{
 			"project": "libgit2",
